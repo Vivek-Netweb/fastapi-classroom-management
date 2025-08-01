@@ -4,6 +4,7 @@ from app.utils.password_hasher import verify_password, hash_password
 from app.core.security import create_access_token
 from app.models.schemas.user import UserCreate, UserOut
 from app.models.schemas.auth import TokenRespons
+from app.utils.api_response import error_response
 
 
 class AuthService:
@@ -12,23 +13,24 @@ class AuthService:
         self.authRepo = authRepo
 
     async def authenticate_user(self, email: str, password: str) -> TokenRespons:
+        print(email)
+        print(password)
         user = await self.authRepo.get_by_email(email)
 
+        print(user)
         if not user or not verify_password(password, user["password"]):
-            raise HTTPException(
-                status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid Credentials"
-            )
+            raise HTTPException(detail="Invalid Credentials" , status_code=401)
         
-        print("why cookie is generating")
+        
         token = create_access_token(data={"sub": str(user["id"]), "role": user["role"]})
-        print("token")
-        return TokenRespons(access_token=token, token_type="bearer")
+        user_role = user["role"]
+        return token,user_role
 
     async def register_user(self, user: UserCreate) -> UserOut:
         existing = await self.authRepo.get_by_email(user.email)
 
         if existing:
-            raise HTTPException(status_code=400, detail="User already exists")
+            raise HTTPException(detail="User already exists" , status_code=400)
 
         hashed_password = user.copy(update={"password": hash_password(user.password)})
         new_user = await self.authRepo.create_user(hashed_password)
@@ -41,5 +43,5 @@ class AuthService:
         existing = await self.authRepo.get_by_id(user_id)
 
         if not existing:
-            raise HTTPException(status_code=400, detail="User does not exists")
+            return error_response(message="User does not exists" , status_code=400)
         return 

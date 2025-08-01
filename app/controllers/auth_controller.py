@@ -14,14 +14,16 @@ class AuthController:
     
     async def login(self, payload : LoginRequest):
         try:
-            token = await self.auth_service.authenticate_user(payload.email, payload.password)
+            token , user_role= await self.auth_service.authenticate_user(payload.email, payload.password)
+            print("token : ",token)
+            print("user_role : ", user_role)
             cookies = {
-                "access_token" : token.access_token
+                "access_token" : token
             }
             # logger.info()
-            return success_response(data=token, message="Login Successfully!", cookies=cookies) 
+            return success_response(data=[{"token" : token, "role" : user_role}], message="Login Successfully!", cookies=cookies) 
         except HTTPException as e:
-            raise error_response(message=e.detail, status_code=e.status_code)
+            return error_response(message=e.detail, status_code=e.status_code)
         # logger.error()
         except Exception as e:
             return error_response(message="Internal Server Error", error=str(e), status_code=500)
@@ -40,7 +42,7 @@ class AuthController:
     async def logout(self, user_id : int):
         try:
             user_data = await self.auth_service.logout_user(user_id) 
-            return success_response(user_data, message="Register Successfully!", status_code=200, delete_cookies=["access_token"])
+            return success_response(user_data, message="Logout Successfully!", status_code=200, delete_cookies=["access_token"])
         except HTTPException as e:
             return error_response(message=e.detail, status_code=e.status_code)
         except Exception as e:

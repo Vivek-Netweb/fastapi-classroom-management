@@ -15,6 +15,7 @@ async def create_class(payload: ClassCreate, conn: asyncpg.Connection = Depends(
     controller = AdminController(conn)
     return await controller.create_class(payload)
 
+
 @admin_router.post("/create-subject")
 async def create_subject(payload: SubjectCreate, conn: asyncpg.Connection = Depends(get_conn_dependency), _: None = Depends(required_roles(["admin"]))):
     controller = AdminController(conn)
@@ -24,3 +25,17 @@ async def create_subject(payload: SubjectCreate, conn: asyncpg.Connection = Depe
 async def assign_teacher(payload: AssignTeacherToClass, conn: asyncpg.Connection = Depends(get_conn_dependency), _: None = Depends(required_roles(["admin"]))):
     controller = AdminController(conn)
     return await controller.assign_teacher_to_class(payload)
+
+@admin_router.get("/classes")
+async def get_all_classes(conn: asyncpg.Connection = Depends(get_conn_dependency), _: None = Depends(required_roles(["admin"]))):
+    controller = AdminController(conn)
+    return await controller.get_all_classes()
+
+@admin_router.get("/subjects")
+async def get_all_subjects(conn: asyncpg.Connection = Depends(get_conn_dependency), _: None = Depends(required_roles(["admin"]))):
+    controller = AdminController(conn)
+    return await controller.get_all_subjects()
+@admin_router.get("/teachers")
+async def get_all_teachers(conn: asyncpg.Connection = Depends(get_conn_dependency), _: None = Depends(required_roles(["admin"]))):
+    controller = AdminController(conn)
+    return await controller.get_all_teachers()

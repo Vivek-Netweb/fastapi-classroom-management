@@ -1,44 +1,50 @@
 from starlette.middleware.base import BaseHTTPMiddleware
-# from starlette.requests import Request
-from fastapi.responses import JSONResponse
 from jose import JWTError, jwt
-from fastapi import Request, Response
+from fastapi import Request
 import os
 from app.utils.api_response import error_response
 
 SECURITY_KEY = os.getenv("JWT_SECRET_KEY")
 ALGORITHM = os.getenv("ALGORITHM")
 
-EXCLUDE_PATHS = ["/auth/login", "/auth/register", "/openapi.json", "/docs", "/docs/oauth2-redirect", "/redoc"]
+EXCLUDE_PATHS = [
+    "/auth/login",
+    "/auth/register",
+    "/openapi.json",
+    "/docs",
+    "/docs/oauth2-redirect",
+    "/redoc",
+    "/"
+]
+
+
+EXCLUDE_PREFIXES = ["/uploads"]
+
 
 class JWTAuthMiddleware(BaseHTTPMiddleware):
-    async def dispatch(self, request : Request, call_next):
+    async def dispatch(self, request: Request, call_next):
 
         if request.url.path in EXCLUDE_PATHS or request.url.path.startswith("/static"):
             return await call_next(request)
-        
-        
-        
+
+        # Prefix match for directories
+        if any(request.url.path.startswith(prefix) for prefix in EXCLUDE_PREFIXES):
+            return await call_next(request)
+
         token = None
         auth_header = request.headers.get("Authorization")
 
         if auth_header and auth_header.startswith("Bearer "):
-            print("auth headers")
-            token =  auth_header.replace("Bearer ", "").strip()
+            token = auth_header.replace("Bearer ", "").strip()
         else:
-            print("cokkiesss")
             token = request.cookies.get("access_token")
-        
-        if not token:
-            return error_response(message="Missing Access Token",status_code=401, delete_cookies=["access_token"] )
-            # Delete the cookie if missing
-            response = JSONResponse(
-                status_code=401,
-                content={"detail": "Missing access token"}
-            )
-            response.delete_cookie("access_token", path="/")
-            return response 
 
+        if not token:
+            return error_response(
+                message="Missing Access Token",
+                status_code=401,
+                delete_cookies=["access_token"],
+            )
 
         try:
             payload = jwt.decode(token, SECURITY_KEY, algorithms=[ALGORITHM])
@@ -47,21 +53,16 @@ class JWTAuthMiddleware(BaseHTTPMiddleware):
 
             if user_id is None or role is None:
                 raise JWTError()
-            
-            request.state.user = {
-                "id" : int(user_id),
-                "role" : role
-            }
+
+            request.state.user = {"id": int(user_id), "role": role}
 
         except JWTError:
             # Delete the cookie if invalid or expired
-            return error_response(message="Missing Access Token",status_code=401, delete_cookies=["access_token"] )
-            response = JSONResponse(
+            return error_response(
+                message="Missing Access Token",
                 status_code=401,
-                content={"detail": "Invalid or expired access token"}
+                delete_cookies=["access_token"],
             )
-            response.delete_cookie("access_token", path="/")
-            return response
-        
+
         response = await call_next(request)
-        return response        
+        return response

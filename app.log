@@ -1,0 +1,1427 @@
+[INFO] | [2025-07-30 17:52:12,475] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:52:39,130] | [root] - POST /study-materials/upload Status 201 Time : 0.03389763832092285s
+[INFO] | [2025-07-30 17:52:43,987] | [root] - POST /study-materials/upload Status 201 Time : 0.016698360443115234s
+[INFO] | [2025-07-30 17:54:20,503] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:54:22,818] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:54:34,383] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:54:46,657] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:54:50,014] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:54:52,128] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:54:54,603] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:54:57,832] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:04,009] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:13,988] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:16,477] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:20,243] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:23,689] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:25,914] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:28,241] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:37,414] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:39,589] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:44,191] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:55:57,939] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:00,597] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:05,114] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:07,220] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:13,451] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:15,766] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:21,998] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:25,140] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:30,011] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:32,353] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:56:35,499] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 17:59:14,890] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:01:59,697] | [root] - GET /study-materials/class/1 Status 401 Time : 0.0009677410125732422s
+[INFO] | [2025-07-30 18:02:13,439] | [root] - GET /study-materials/class/1 Status 401 Time : 0.0007388591766357422s
+[INFO] | [2025-07-30 18:02:17,805] | [root] - POST /auth/login Status 200 Time : 0.3361549377441406s
+[INFO] | [2025-07-30 18:03:14,057] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:21,358] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:23,802] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:26,301] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:28,578] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:30,884] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:35,503] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:40,172] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:44,794] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:55,606] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:03:58,915] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:03,530] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:05,547] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:08,785] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:23,001] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:29,261] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:43,414] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:49,729] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:52,155] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:54,333] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:04:58,389] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:05:02,569] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:05:04,846] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:05:35,702] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:06:58,905] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:07:06,778] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:07:29,544] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:11:03,593] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:11:05,705] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:11:16,834] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:12:02,118] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:12:04,410] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:12:16,139] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:12:33,399] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:12:41,970] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:13:05,569] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:13:43,848] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:13:46,188] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:13:48,306] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:16:43,092] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:17:30,813] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:17:33,394] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:17:35,435] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:17:40,072] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:17:56,105] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:18:10,754] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:18:48,230] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:18:50,376] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:27:00,943] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:27:13,098] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:27:15,465] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:27:23,523] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:27:26,737] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:27:32,071] | [root] - GET /study-materials/class/1 Status 200 Time : 0.01019144058227539s
+[INFO] | [2025-07-30 18:27:46,472] | [root] - POST /auth/login Status 200 Time : 0.3329164981842041s
+[INFO] | [2025-07-30 18:28:14,011] | [root] - GET /admin/classes Status 200 Time : 0.008075714111328125s
+[INFO] | [2025-07-30 18:28:18,756] | [root] - GET /study-materials/class/1 Status 200 Time : 0.002151966094970703s
+[INFO] | [2025-07-30 18:29:16,804] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:19,154] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:24,912] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:29,662] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:32,677] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:35,314] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:39,328] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:41,505] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:43,963] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:47,352] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:49,597] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:51,814] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:57,416] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:29:59,713] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:30:02,187] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:30:10,067] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:30:11,936] | [root] - GET /study-materials/class/1 Status 200 Time : 0.010114669799804688s
+[INFO] | [2025-07-30 18:30:38,488] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:30:55,928] | [root] - GET /study-materials/class/1 Status 200 Time : 0.011014461517333984s
+[INFO] | [2025-07-30 18:31:21,036] | [root] - GET /study-materials/class/1 Status 200 Time : 0.0027811527252197266s
+[INFO] | [2025-07-30 18:32:02,411] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:32:06,847] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:32:09,176] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:32:11,311] | [root] - GET /study-materials/class/1 Status 200 Time : 0.01023721694946289s
+[INFO] | [2025-07-30 18:32:27,379] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:32:32,908] | [root] - APP STARTED!!!
+[INFO] | [2025-07-30 18:32:33,807] | [root] - GET /study-materials/class/1 Status 401 Time : 0.0009713172912597656s
+[INFO] | [2025-07-30 18:32:38,792] | [root] - POST /auth/login Status 200 Time : 0.33693957328796387s
+[INFO] | [2025-07-30 18:32:53,109] | [root] - GET /study-materials/class/1 Status 200 Time : 0.010339975357055664s
+[INFO] | [2025-07-30 18:33:03,325] | [root] - GET /uploads/study_materials/11167d07-dc46-4ac4-9b2e-1d04f9be75f9.jpg Status 200 Time : 0.14144372940063477s
+[INFO] | [2025-07-30 18:33:03,384] | [root] - GET /favicon.ico Status 401 Time : 0.000499725341796875s
+[INFO] | [2025-07-30 18:35:56,083] | [root] - POST /study-materials/upload Status 201 Time : 0.018545866012573242s
+[INFO] | [2025-07-30 18:36:00,045] | [root] - GET /study-materials/class/1 Status 200 Time : 0.0021135807037353516s
+[INFO] | [2025-07-30 18:36:18,875] | [root] - GET /uploads/study_materials/75b4f76b-c187-43f4-9f0d-23f77c75a307.jpg Status 200 Time : 0.0017986297607421875s
+[INFO] | [2025-07-30 18:36:19,445] | [root] - GET /favicon.ico Status 401 Time : 0.0005919933319091797s
+[INFO] | [2025-07-30 18:36:26,874] | [root] - GET /uploads/study_materials/904313b5-68a3-47f0-98b8-2fe5c9df4e20.pdf Status 200 Time : 0.002582550048828125s
+[INFO] | [2025-07-30 18:36:26,948] | [root] - GET /favicon.ico Status 401 Time : 0.0005044937133789062s
+[ERROR] | [2025-07-31 11:55:16,952] | [fastapi] - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+[INFO] | [2025-07-31 11:55:37,846] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 11:55:42,996] | [root] - POST /auth/login Status 200 Time : 0.47318434715270996s
+[INFO] | [2025-07-31 12:04:18,972] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 12:04:25,439] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 12:04:28,761] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 12:04:31,244] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 12:04:40,763] | [root] - POST /auth/create-user Status 201 Time : 0.35665440559387207s
+[INFO] | [2025-07-31 12:14:13,626] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 12:22:39,811] | [root] - POST /auth/login Status 200 Time : 0.47328829765319824s
+[INFO] | [2025-07-31 12:27:35,096] | [root] - POST /auth/create-user Status 201 Time : 0.25403380393981934s
+[INFO] | [2025-07-31 12:27:52,000] | [root] - POST /admin/create-class Status 201 Time : 0.015444040298461914s
+[INFO] | [2025-07-31 12:29:14,544] | [root] - POST /admin/assign-teacher Status 404 Time : 0.0046160221099853516s
+[INFO] | [2025-07-31 12:29:29,475] | [root] - POST /admin/assign-teacher Status 404 Time : 0.0029633045196533203s
+[INFO] | [2025-07-31 12:30:30,263] | [root] - POST /auth/create-user Status 201 Time : 0.23986029624938965s
+[INFO] | [2025-07-31 12:30:50,283] | [root] - POST /admin/assign-teacher Status 201 Time : 0.014477014541625977s
+[INFO] | [2025-07-31 12:31:15,618] | [root] - POST /admin/create-subject Status 201 Time : 0.017978906631469727s
+[INFO] | [2025-07-31 12:37:06,663] | [root] - GET /study-materials/class/1 Status 200 Time : 0.1443958282470703s
+[INFO] | [2025-07-31 15:29:11,346] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 15:29:13,575] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:25:12,225] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:25:31,343] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:25:34,342] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:25:36,725] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:25:48,796] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:26:52,374] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:26:56,410] | [root] - GET / Status 200 Time : 0.0013077259063720703s
+[INFO] | [2025-07-31 17:26:56,449] | [root] - GET /favicon.ico Status 401 Time : 0.0008003711700439453s
+[INFO] | [2025-07-31 17:27:01,183] | [root] - GET / Status 200 Time : 0.0007166862487792969s
+[INFO] | [2025-07-31 17:27:01,219] | [root] - GET /favicon.ico Status 401 Time : 0.0004787445068359375s
+[INFO] | [2025-07-31 17:27:13,252] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:27:15,546] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:27:16,135] | [root] - GET / Status 401 Time : 0.0006587505340576172s
+[INFO] | [2025-07-31 17:27:16,176] | [root] - GET /favicon.ico Status 401 Time : 0.0008151531219482422s
+[INFO] | [2025-07-31 17:27:28,277] | [root] - APP STARTED!!!
+[INFO] | [2025-07-31 17:27:30,517] | [root] - GET / Status 200 Time : 0.0014393329620361328s
+[INFO] | [2025-07-31 17:27:30,552] | [root] - GET /favicon.ico Status 401 Time : 0.0005359649658203125s
+[INFO] | [2025-08-01 11:14:48,089] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:15:13,748] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:16:20,264] | [root] - GET /users/user-profile Status 401 Time : 0.0007882118225097656s
+[INFO] | [2025-08-01 11:17:22,954] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002639293670654297s
+[INFO] | [2025-08-01 11:17:23,439] | [root] - POST /auth/login Status 200 Time : 0.4822359085083008s
+[INFO] | [2025-08-01 11:17:55,998] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:17:58,223] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:18:39,044] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:18:42,136] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:18:44,938] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:18:47,170] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:18:59,248] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:04,199] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:06,903] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:09,632] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:12,360] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:14,951] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:17,288] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:19,824] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:23,977] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:26,746] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:28,982] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:38,691] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:46,469] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:48,988] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:51,451] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:53,943] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:56,536] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:19:58,824] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:02,267] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:04,963] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:07,233] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:18,201] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:23,016] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:25,789] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:28,895] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:44,047] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:46,665] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:49,436] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:52,194] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:56,714] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:20:59,233] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:21:01,961] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:21:11,334] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:21:17,734] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:21:22,635] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:21:29,610] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:21:34,330] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:21:46,336] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:22:00,110] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:22:03,369] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:22:05,771] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:22:08,107] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:22:10,704] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:22:28,757] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:29:31,727] | [root] - GET /users Status 307 Time : 0.0009598731994628906s
+[INFO] | [2025-08-01 11:29:31,895] | [root] - GET /users/ Status 200 Time : 0.1640636920928955s
+[INFO] | [2025-08-01 11:31:20,882] | [root] - GET /users/user-profile Status 200 Time : 0.0029151439666748047s
+[INFO] | [2025-08-01 11:31:23,497] | [root] - GET /users Status 307 Time : 0.0006251335144042969s
+[INFO] | [2025-08-01 11:31:23,505] | [root] - GET /users/ Status 200 Time : 0.003814697265625s
+[INFO] | [2025-08-01 11:31:28,603] | [root] - OPTIONS /auth/logout Status 200 Time : 0.00021719932556152344s
+[INFO] | [2025-08-01 11:31:28,609] | [root] - DELETE /auth/logout Status 200 Time : 0.002431631088256836s
+[INFO] | [2025-08-01 11:31:46,971] | [root] - OPTIONS /auth/login Status 200 Time : 0.0001819133758544922s
+[INFO] | [2025-08-01 11:31:47,243] | [root] - POST /auth/login Status 200 Time : 0.26929330825805664s
+[INFO] | [2025-08-01 11:34:21,281] | [root] - GET /admin/classes Status 200 Time : 0.012760639190673828s
+[INFO] | [2025-08-01 11:34:23,619] | [root] - GET /admin/classes Status 200 Time : 0.007302522659301758s
+[INFO] | [2025-08-01 11:34:36,268] | [root] - GET /admin/classes Status 200 Time : 0.0021164417266845703s
+[INFO] | [2025-08-01 11:34:47,268] | [root] - GET /admin/classes Status 200 Time : 0.002471923828125s
+[INFO] | [2025-08-01 11:34:49,263] | [root] - GET /admin/classes Status 200 Time : 0.002336740493774414s
+[INFO] | [2025-08-01 11:34:53,263] | [root] - GET /admin/classes Status 200 Time : 0.0021271705627441406s
+[INFO] | [2025-08-01 11:34:57,264] | [root] - GET /admin/classes Status 200 Time : 0.001817464828491211s
+[INFO] | [2025-08-01 11:34:58,262] | [root] - GET /admin/classes Status 200 Time : 0.001992464065551758s
+[INFO] | [2025-08-01 11:35:00,259] | [root] - GET /admin/classes Status 200 Time : 0.0018167495727539062s
+[INFO] | [2025-08-01 11:35:02,264] | [root] - GET /admin/classes Status 200 Time : 0.0028045177459716797s
+[INFO] | [2025-08-01 11:35:11,267] | [root] - GET /admin/classes Status 200 Time : 0.002492189407348633s
+[INFO] | [2025-08-01 11:36:14,265] | [root] - GET /admin/classes Status 200 Time : 0.0021872520446777344s
+[INFO] | [2025-08-01 11:36:41,283] | [root] - GET /admin/classes Status 200 Time : 0.0026798248291015625s
+[INFO] | [2025-08-01 11:36:57,274] | [root] - GET /admin/classes Status 200 Time : 0.002386331558227539s
+[INFO] | [2025-08-01 11:37:01,785] | [root] - GET /admin/classes Status 200 Time : 0.002605915069580078s
+[INFO] | [2025-08-01 11:37:15,273] | [root] - GET /admin/classes Status 200 Time : 0.0024483203887939453s
+[INFO] | [2025-08-01 11:37:17,268] | [root] - GET /admin/classes Status 200 Time : 0.0019583702087402344s
+[INFO] | [2025-08-01 11:37:19,122] | [root] - GET /admin/classes Status 200 Time : 0.005548000335693359s
+[INFO] | [2025-08-01 11:37:28,271] | [root] - GET /admin/classes Status 200 Time : 0.002001047134399414s
+[INFO] | [2025-08-01 11:37:29,796] | [root] - GET /admin/classes Status 200 Time : 0.0031032562255859375s
+[INFO] | [2025-08-01 11:37:30,003] | [root] - GET /admin/classes Status 200 Time : 0.002407550811767578s
+[INFO] | [2025-08-01 11:39:18,161] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:39:21,717] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:39:24,679] | [root] - GET /admin/classes Status 500 Time : 0.05630087852478027s
+[INFO] | [2025-08-01 11:39:50,040] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:41:24,820] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:41:26,425] | [root] - GET /admin/classes Status 200 Time : 0.020573139190673828s
+[INFO] | [2025-08-01 11:41:29,517] | [root] - GET /admin/classes Status 200 Time : 0.0027124881744384766s
+[INFO] | [2025-08-01 11:41:38,821] | [root] - GET /admin/classes Status 200 Time : 0.003074169158935547s
+[INFO] | [2025-08-01 11:41:40,880] | [root] - GET /admin/classes Status 200 Time : 0.0030972957611083984s
+[INFO] | [2025-08-01 11:41:45,279] | [root] - GET /admin/classes Status 200 Time : 0.002302885055541992s
+[INFO] | [2025-08-01 11:41:48,266] | [root] - GET /admin/classes Status 200 Time : 0.0018644332885742188s
+[INFO] | [2025-08-01 11:41:49,270] | [root] - GET /admin/classes Status 200 Time : 0.002485513687133789s
+[INFO] | [2025-08-01 11:41:50,267] | [root] - GET /admin/classes Status 200 Time : 0.0022249221801757812s
+[INFO] | [2025-08-01 11:41:53,095] | [root] - GET /admin/classes Status 200 Time : 0.0028367042541503906s
+[INFO] | [2025-08-01 11:42:19,143] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:43:35,454] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:43:37,117] | [root] - GET /admin/classes Status 200 Time : 0.012593269348144531s
+[INFO] | [2025-08-01 11:45:40,837] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:45:55,063] | [root] - GET /admin/classes Status 200 Time : 0.00645756721496582s
+[INFO] | [2025-08-01 11:47:58,307] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:03,585] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:06,171] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:08,893] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:11,501] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:13,916] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:16,808] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:24,800] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:41,090] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:48:43,691] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:53:00,688] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:53:03,864] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:53:06,999] | [root] - GET /admin/classes Status 200 Time : 0.09209179878234863s
+[INFO] | [2025-08-01 11:57:05,285] | [root] - GET /admin/classes Status 200 Time : 0.0047876834869384766s
+[INFO] | [2025-08-01 11:58:11,775] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:58:15,186] | [root] - GET /admin/classes Status 500 Time : 0.1036069393157959s
+[INFO] | [2025-08-01 11:58:25,639] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:58:34,198] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:58:39,260] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:58:41,770] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:58:46,579] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:58:50,776] | [root] - GET /admin/classes Status 500 Time : 0.09369182586669922s
+[INFO] | [2025-08-01 11:59:09,919] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:14,345] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:18,482] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:21,140] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:25,716] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:28,434] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:32,011] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:37,044] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:40,906] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:43,769] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:47,505] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:50,063] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:53,584] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 11:59:57,879] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:00:00,386] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:00:02,707] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:00:10,792] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:00:17,437] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:00:19,473] | [root] - GET /admin/classes Status 500 Time : 0.08611178398132324s
+[INFO] | [2025-08-01 12:00:41,817] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:00:45,653] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:00:46,627] | [root] - GET /admin/classes Status 500 Time : 0.2102956771850586s
+[INFO] | [2025-08-01 12:00:46,644] | [root] - GET /admin/classes Status 500 Time : 0.2271130084991455s
+[INFO] | [2025-08-01 12:00:46,710] | [root] - GET /admin/classes Status 500 Time : 0.12119817733764648s
+[INFO] | [2025-08-01 12:02:18,383] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:02:21,032] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:02:24,535] | [root] - GET /admin/classes Status 401 Time : 0.0008924007415771484s
+[INFO] | [2025-08-01 12:03:22,028] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:03:22,705] | [root] - GET /admin/classes Status 401 Time : 0.00048661231994628906s
+[INFO] | [2025-08-01 12:03:36,280] | [root] - OPTIONS /auth/logout Status 200 Time : 0.00019598007202148438s
+[INFO] | [2025-08-01 12:03:36,284] | [root] - DELETE /auth/logout Status 401 Time : 0.0005071163177490234s
+[INFO] | [2025-08-01 12:03:49,632] | [root] - OPTIONS /auth/login Status 200 Time : 0.00019049644470214844s
+[INFO] | [2025-08-01 12:03:49,997] | [root] - POST /auth/login Status 200 Time : 0.36167025566101074s
+[INFO] | [2025-08-01 12:03:50,031] | [root] - GET /admin/classes Status 500 Time : 0.015340089797973633s
+[INFO] | [2025-08-01 12:03:53,031] | [root] - GET /admin/classes Status 500 Time : 0.002745389938354492s
+[INFO] | [2025-08-01 12:06:54,860] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:07:05,622] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:07:36,107] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:07:51,094] | [root] - GET /admin/classes Status 500 Time : 0.08920550346374512s
+[INFO] | [2025-08-01 12:08:47,454] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:09:16,257] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:09:18,779] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:09:30,456] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:09:33,328] | [root] - GET /admin/classes Status 500 Time : 0.09108185768127441s
+[INFO] | [2025-08-01 12:10:57,388] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:11:19,704] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:11:24,866] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:11:46,694] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:11:49,342] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:11:51,700] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:11:58,004] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:12:00,603] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:12:02,954] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:12:06,791] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:12:07,749] | [root] - GET /admin/classes Status 200 Time : 0.10107755661010742s
+[INFO] | [2025-08-01 12:17:49,552] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:17:51,841] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:17:55,796] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:17:58,141] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:01,528] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:03,997] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:06,304] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:09,945] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:18,788] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:21,152] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:43,441] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:48,529] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:51,227] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:18:52,074] | [root] - GET /admin/classes Status 200 Time : 0.08045101165771484s
+[INFO] | [2025-08-01 12:18:52,075] | [root] - GET /admin/classes Status 200 Time : 0.08138895034790039s
+[INFO] | [2025-08-01 12:20:37,639] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:22:05,850] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:22:10,285] | [root] - GET /admin/classes Status 200 Time : 0.07600188255310059s
+[INFO] | [2025-08-01 12:22:39,585] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:22:44,882] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:23:29,756] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:23:33,163] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:23:36,166] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:23:39,181] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:23:44,509] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:23:49,259] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:23:51,996] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:23:52,745] | [root] - GET /admin/classes Status 200 Time : 0.13153886795043945s
+[INFO] | [2025-08-01 12:23:52,985] | [root] - GET /admin/classes Status 200 Time : 0.0040972232818603516s
+[INFO] | [2025-08-01 12:24:06,185] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:24:29,031] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:28:30,754] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:28:31,621] | [root] - GET /admin/classes Status 200 Time : 0.06821799278259277s
+[INFO] | [2025-08-01 12:28:41,502] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:28:44,171] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:28:44,890] | [root] - GET /admin/classes Status 200 Time : 0.0803375244140625s
+[INFO] | [2025-08-01 12:28:53,983] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:28:56,788] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:28:59,237] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:29:00,230] | [root] - GET /admin/classes Status 200 Time : 0.11581826210021973s
+[INFO] | [2025-08-01 12:29:40,626] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:29:41,506] | [root] - GET /admin/classes Status 200 Time : 0.07342171669006348s
+[INFO] | [2025-08-01 12:30:20,120] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:30:20,814] | [root] - GET /admin/classes Status 200 Time : 0.0794520378112793s
+[INFO] | [2025-08-01 12:30:38,855] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:30:43,296] | [root] - GET /admin/classes Status 500 Time : 0.0764915943145752s
+[INFO] | [2025-08-01 12:31:07,761] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:31:08,680] | [root] - GET /admin/classes Status 200 Time : 0.0776820182800293s
+[INFO] | [2025-08-01 12:33:21,329] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:33:22,373] | [root] - GET /admin/classes Status 200 Time : 0.02572917938232422s
+[INFO] | [2025-08-01 12:34:16,800] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 12:34:18,077] | [root] - GET /admin/classes Status 401 Time : 0.0012650489807128906s
+[INFO] | [2025-08-01 12:34:21,563] | [root] - GET /admin/classes Status 401 Time : 0.0004410743713378906s
+[INFO] | [2025-08-01 12:34:23,056] | [root] - GET /admin/classes Status 401 Time : 0.0003886222839355469s
+[INFO] | [2025-08-01 12:34:50,465] | [root] - GET /admin/classes Status 401 Time : 0.0003349781036376953s
+[INFO] | [2025-08-01 12:34:53,465] | [root] - GET /admin/classes Status 401 Time : 0.0003287792205810547s
+[INFO] | [2025-08-01 12:34:54,467] | [root] - GET /admin/classes Status 401 Time : 0.00031256675720214844s
+[INFO] | [2025-08-01 12:34:55,454] | [root] - GET /admin/classes Status 401 Time : 0.0003387928009033203s
+[INFO] | [2025-08-01 12:34:56,464] | [root] - GET /admin/classes Status 401 Time : 0.0003921985626220703s
+[INFO] | [2025-08-01 12:35:01,459] | [root] - GET /admin/classes Status 401 Time : 0.0003027915954589844s
+[INFO] | [2025-08-01 12:35:10,467] | [root] - GET /admin/classes Status 401 Time : 0.0004372596740722656s
+[INFO] | [2025-08-01 12:35:14,469] | [root] - GET /admin/classes Status 401 Time : 0.0004038810729980469s
+[INFO] | [2025-08-01 12:35:15,064] | [root] - GET /admin/classes Status 401 Time : 0.0003418922424316406s
+[INFO] | [2025-08-01 12:35:20,466] | [root] - GET /admin/classes Status 401 Time : 0.0003542900085449219s
+[INFO] | [2025-08-01 12:35:21,459] | [root] - GET /admin/classes Status 401 Time : 0.00032639503479003906s
+[INFO] | [2025-08-01 12:35:22,464] | [root] - GET /admin/classes Status 401 Time : 0.0004990100860595703s
+[INFO] | [2025-08-01 12:35:23,461] | [root] - GET /admin/classes Status 401 Time : 0.00042247772216796875s
+[INFO] | [2025-08-01 12:35:24,459] | [root] - GET /admin/classes Status 401 Time : 0.0003018379211425781s
+[INFO] | [2025-08-01 12:35:25,455] | [root] - GET /admin/classes Status 401 Time : 0.00036978721618652344s
+[INFO] | [2025-08-01 12:35:26,513] | [root] - GET /admin/classes Status 401 Time : 0.00032067298889160156s
+[INFO] | [2025-08-01 12:35:45,682] | [root] - OPTIONS /auth/login Status 200 Time : 0.00018477439880371094s
+[INFO] | [2025-08-01 12:35:46,022] | [root] - POST /auth/login Status 200 Time : 0.337160587310791s
+[INFO] | [2025-08-01 12:35:46,056] | [root] - GET /admin/classes Status 200 Time : 0.013120174407958984s
+[INFO] | [2025-08-01 12:36:24,473] | [root] - GET /admin/classes Status 200 Time : 0.001991748809814453s
+[INFO] | [2025-08-01 12:36:26,475] | [root] - GET /admin/classes Status 200 Time : 0.0018613338470458984s
+[INFO] | [2025-08-01 12:36:27,466] | [root] - GET /admin/classes Status 200 Time : 0.0021359920501708984s
+[INFO] | [2025-08-01 12:36:28,470] | [root] - GET /admin/classes Status 200 Time : 0.002356290817260742s
+[INFO] | [2025-08-01 12:36:29,867] | [root] - GET /admin/classes Status 200 Time : 0.001772165298461914s
+[INFO] | [2025-08-01 12:36:37,355] | [root] - GET /admin/classes Status 200 Time : 0.0017747879028320312s
+[INFO] | [2025-08-01 12:36:44,988] | [root] - GET /admin/classes Status 200 Time : 0.0018258094787597656s
+[INFO] | [2025-08-01 12:36:53,477] | [root] - GET /admin/classes Status 200 Time : 0.00272369384765625s
+[INFO] | [2025-08-01 12:36:53,770] | [root] - GET /admin/classes Status 200 Time : 0.0017879009246826172s
+[INFO] | [2025-08-01 12:37:02,482] | [root] - GET /admin/classes Status 200 Time : 0.0021300315856933594s
+[INFO] | [2025-08-01 12:37:04,408] | [root] - GET /admin/classes Status 200 Time : 0.003001689910888672s
+[INFO] | [2025-08-01 12:37:04,645] | [root] - GET /admin/classes Status 200 Time : 0.002208709716796875s
+[INFO] | [2025-08-01 12:38:20,492] | [root] - GET /admin/classes Status 200 Time : 0.0021505355834960938s
+[INFO] | [2025-08-01 12:38:25,120] | [root] - GET /admin/classes Status 200 Time : 0.002582550048828125s
+[INFO] | [2025-08-01 12:39:00,941] | [root] - GET /admin/classes Status 200 Time : 0.0027260780334472656s
+[INFO] | [2025-08-01 12:39:15,490] | [root] - GET /admin/classes Status 200 Time : 0.0021271705627441406s
+[INFO] | [2025-08-01 12:39:37,240] | [root] - GET /admin/classes Status 200 Time : 0.004362344741821289s
+[INFO] | [2025-08-01 12:39:52,489] | [root] - GET /admin/classes Status 200 Time : 0.0026907920837402344s
+[INFO] | [2025-08-01 12:39:55,502] | [root] - GET /admin/classes Status 200 Time : 0.004045009613037109s
+[INFO] | [2025-08-01 12:39:57,486] | [root] - GET /admin/classes Status 200 Time : 0.0020470619201660156s
+[INFO] | [2025-08-01 12:39:59,492] | [root] - GET /admin/classes Status 200 Time : 0.002515554428100586s
+[INFO] | [2025-08-01 12:40:31,488] | [root] - GET /admin/classes Status 200 Time : 0.0025773048400878906s
+[INFO] | [2025-08-01 12:40:32,545] | [root] - GET /admin/classes Status 200 Time : 0.016295671463012695s
+[INFO] | [2025-08-01 12:40:44,573] | [root] - GET /admin/classes Status 200 Time : 0.0022759437561035156s
+[INFO] | [2025-08-01 12:40:48,351] | [root] - GET /admin/classes Status 200 Time : 0.03227663040161133s
+[INFO] | [2025-08-01 12:41:03,504] | [root] - GET /admin/classes Status 200 Time : 0.0031278133392333984s
+[INFO] | [2025-08-01 12:41:10,043] | [root] - GET /admin/classes Status 200 Time : 0.007069587707519531s
+[INFO] | [2025-08-01 12:41:25,493] | [root] - GET /admin/classes Status 200 Time : 0.0024085044860839844s
+[INFO] | [2025-08-01 12:41:26,489] | [root] - GET /admin/classes Status 200 Time : 0.002334117889404297s
+[INFO] | [2025-08-01 12:42:04,321] | [root] - GET /admin/classes Status 200 Time : 0.003971576690673828s
+[INFO] | [2025-08-01 12:44:24,495] | [root] - GET /admin/classes Status 200 Time : 0.0023148059844970703s
+[INFO] | [2025-08-01 12:44:35,494] | [root] - GET /admin/classes Status 200 Time : 0.0019614696502685547s
+[INFO] | [2025-08-01 12:47:47,506] | [root] - GET /admin/classes Status 200 Time : 0.0035338401794433594s
+[INFO] | [2025-08-01 13:08:49,049] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 13:09:04,265] | [root] - OPTIONS /auth/login Status 200 Time : 0.00021839141845703125s
+[INFO] | [2025-08-01 13:09:04,623] | [root] - POST /auth/login Status 200 Time : 0.3544497489929199s
+[INFO] | [2025-08-01 13:09:04,679] | [root] - GET /admin/classes Status 200 Time : 0.01603221893310547s
+[INFO] | [2025-08-01 13:14:04,113] | [root] - OPTIONS /admin/create-class Status 200 Time : 0.00020122528076171875s
+[INFO] | [2025-08-01 13:14:04,126] | [root] - POST /admin/create-class Status 422 Time : 0.010405778884887695s
+[INFO] | [2025-08-01 13:15:12,221] | [root] - OPTIONS /admin/create-class Status 200 Time : 0.00018787384033203125s
+[INFO] | [2025-08-01 13:15:12,263] | [root] - POST /admin/create-class Status 201 Time : 0.03844189643859863s
+[INFO] | [2025-08-01 13:16:29,763] | [root] - OPTIONS /admin/create-class Status 200 Time : 0.00020074844360351562s
+[INFO] | [2025-08-01 13:16:29,770] | [root] - POST /admin/create-class Status 201 Time : 0.004457712173461914s
+[INFO] | [2025-08-01 13:16:29,791] | [root] - GET /admin/classes Status 200 Time : 0.003265380859375s
+[INFO] | [2025-08-01 13:17:28,835] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 14:41:58,469] | [root] - GET /admin/classes Status 401 Time : 0.0007061958312988281s
+[INFO] | [2025-08-01 14:42:13,990] | [root] - OPTIONS /auth/login Status 200 Time : 0.00017881393432617188s
+[INFO] | [2025-08-01 14:42:14,451] | [root] - POST /auth/login Status 200 Time : 0.45906519889831543s
+[INFO] | [2025-08-01 14:42:14,475] | [root] - GET /admin/classes Status 200 Time : 0.011852025985717773s
+[INFO] | [2025-08-01 14:46:16,897] | [root] - GET /admin/classes Status 200 Time : 0.0033080577850341797s
+[INFO] | [2025-08-01 14:46:33,188] | [root] - GET /admin/classes Status 200 Time : 0.003275632858276367s
+[INFO] | [2025-08-01 14:46:35,963] | [root] - GET /admin/classes Status 200 Time : 0.0035653114318847656s
+[INFO] | [2025-08-01 14:46:38,433] | [root] - GET /admin/classes Status 200 Time : 0.0024297237396240234s
+[INFO] | [2025-08-01 14:48:31,896] | [root] - GET /admin/classes Status 200 Time : 0.004024982452392578s
+[INFO] | [2025-08-01 14:48:38,900] | [root] - GET /admin/classes Status 200 Time : 0.0025937557220458984s
+[INFO] | [2025-08-01 14:49:20,899] | [root] - GET /admin/classes Status 200 Time : 0.0023338794708251953s
+[INFO] | [2025-08-01 14:49:22,897] | [root] - GET /admin/classes Status 200 Time : 0.002966165542602539s
+[INFO] | [2025-08-01 14:49:54,387] | [root] - GET /admin/classes Status 200 Time : 0.002936840057373047s
+[INFO] | [2025-08-01 14:49:55,953] | [root] - GET /admin/classes Status 200 Time : 0.0026738643646240234s
+[INFO] | [2025-08-01 14:49:57,565] | [root] - GET /admin/classes Status 200 Time : 0.002638101577758789s
+[INFO] | [2025-08-01 14:50:06,651] | [root] - GET /admin/classes Status 200 Time : 0.0029201507568359375s
+[INFO] | [2025-08-01 14:50:08,004] | [root] - GET /admin/subjects Status 404 Time : 0.0007131099700927734s
+[INFO] | [2025-08-01 14:50:14,936] | [root] - GET /admin/classes Status 200 Time : 0.002336263656616211s
+[INFO] | [2025-08-01 14:50:37,853] | [root] - GET /users Status 307 Time : 0.0008521080017089844s
+[INFO] | [2025-08-01 14:50:37,861] | [root] - GET /users/ Status 200 Time : 0.0035817623138427734s
+[INFO] | [2025-08-01 14:50:43,747] | [root] - GET /admin/classes Status 200 Time : 0.003109455108642578s
+[INFO] | [2025-08-01 14:53:06,155] | [root] - GET /users/user-profile Status 200 Time : 0.0031023025512695312s
+[INFO] | [2025-08-01 14:53:07,998] | [root] - GET /admin/classes Status 200 Time : 0.002562284469604492s
+[INFO] | [2025-08-01 14:53:37,892] | [root] - GET /admin/classes Status 200 Time : 0.0028340816497802734s
+[INFO] | [2025-08-01 14:53:42,853] | [root] - GET /admin/classes Status 200 Time : 0.0027441978454589844s
+[INFO] | [2025-08-01 14:53:48,850] | [root] - GET /users Status 307 Time : 0.0006787776947021484s
+[INFO] | [2025-08-01 14:53:48,856] | [root] - GET /users/ Status 200 Time : 0.0027267932891845703s
+[INFO] | [2025-08-01 14:53:50,902] | [root] - GET /admin/classes Status 200 Time : 0.002929210662841797s
+[INFO] | [2025-08-01 14:53:53,559] | [root] - GET /admin/classes Status 200 Time : 0.0027322769165039062s
+[INFO] | [2025-08-01 14:55:39,892] | [root] - GET /users Status 307 Time : 0.0005576610565185547s
+[INFO] | [2025-08-01 14:55:39,897] | [root] - GET /users/ Status 200 Time : 0.003125429153442383s
+[INFO] | [2025-08-01 14:56:23,892] | [root] - GET /admin/classes Status 200 Time : 0.0027904510498046875s
+[INFO] | [2025-08-01 14:56:27,962] | [root] - GET /admin/classes Status 200 Time : 0.002836465835571289s
+[INFO] | [2025-08-01 14:56:29,268] | [root] - GET /users Status 307 Time : 0.0006277561187744141s
+[INFO] | [2025-08-01 14:56:29,275] | [root] - GET /users/ Status 200 Time : 0.0026559829711914062s
+[INFO] | [2025-08-01 14:56:30,655] | [root] - GET /admin/classes Status 200 Time : 0.002406597137451172s
+[INFO] | [2025-08-01 14:56:33,674] | [root] - GET /admin/classes Status 200 Time : 0.002679109573364258s
+[INFO] | [2025-08-01 14:56:35,918] | [root] - GET /admin/classes Status 200 Time : 0.002840757369995117s
+[INFO] | [2025-08-01 14:57:12,900] | [root] - GET /admin/classes Status 200 Time : 0.0026001930236816406s
+[INFO] | [2025-08-01 14:57:13,903] | [root] - GET /admin/classes Status 200 Time : 0.0034971237182617188s
+[INFO] | [2025-08-01 14:57:14,905] | [root] - GET /admin/classes Status 200 Time : 0.002119779586791992s
+[INFO] | [2025-08-01 14:57:15,899] | [root] - GET /admin/classes Status 200 Time : 0.0023679733276367188s
+[INFO] | [2025-08-01 14:57:16,903] | [root] - GET /admin/classes Status 200 Time : 0.0024309158325195312s
+[INFO] | [2025-08-01 14:57:19,905] | [root] - GET /admin/classes Status 200 Time : 0.002592802047729492s
+[INFO] | [2025-08-01 14:57:20,636] | [root] - GET /admin/classes Status 200 Time : 0.0025658607482910156s
+[INFO] | [2025-08-01 15:00:28,906] | [root] - GET /admin/classes Status 200 Time : 0.0036878585815429688s
+[INFO] | [2025-08-01 15:00:32,999] | [root] - GET /admin/classes Status 200 Time : 0.0028960704803466797s
+[INFO] | [2025-08-01 15:01:26,917] | [root] - GET /admin/classes Status 200 Time : 0.002234935760498047s
+[INFO] | [2025-08-01 15:01:27,907] | [root] - GET /admin/classes Status 200 Time : 0.0017848014831542969s
+[INFO] | [2025-08-01 15:01:28,913] | [root] - GET /admin/classes Status 200 Time : 0.0018069744110107422s
+[INFO] | [2025-08-01 15:01:29,908] | [root] - GET /admin/classes Status 200 Time : 0.002156972885131836s
+[INFO] | [2025-08-01 15:01:30,922] | [root] - GET /admin/classes Status 200 Time : 0.00425267219543457s
+[INFO] | [2025-08-01 15:01:32,907] | [root] - GET /admin/classes Status 200 Time : 0.00217437744140625s
+[INFO] | [2025-08-01 15:01:34,702] | [root] - GET /admin/classes Status 200 Time : 0.002640962600708008s
+[INFO] | [2025-08-01 15:01:56,907] | [root] - GET /admin/classes Status 200 Time : 0.0024237632751464844s
+[INFO] | [2025-08-01 15:01:58,918] | [root] - GET /admin/classes Status 200 Time : 0.0046045780181884766s
+[INFO] | [2025-08-01 15:02:26,919] | [root] - GET /admin/classes Status 200 Time : 0.002354860305786133s
+[INFO] | [2025-08-01 15:02:30,907] | [root] - GET /admin/classes Status 200 Time : 0.0021216869354248047s
+[INFO] | [2025-08-01 15:02:35,909] | [root] - GET /admin/classes Status 200 Time : 0.0024628639221191406s
+[INFO] | [2025-08-01 15:02:37,402] | [root] - GET /admin/classes Status 200 Time : 0.0018627643585205078s
+[INFO] | [2025-08-01 15:03:34,926] | [root] - GET /admin/classes Status 200 Time : 0.002827882766723633s
+[INFO] | [2025-08-01 15:03:35,911] | [root] - GET /admin/classes Status 200 Time : 0.0020503997802734375s
+[INFO] | [2025-08-01 15:04:21,922] | [root] - GET /admin/classes Status 200 Time : 0.002679586410522461s
+[INFO] | [2025-08-01 15:04:26,906] | [root] - GET /admin/classes Status 200 Time : 0.002156496047973633s
+[INFO] | [2025-08-01 15:04:27,910] | [root] - GET /admin/classes Status 200 Time : 0.0021228790283203125s
+[INFO] | [2025-08-01 15:04:29,903] | [root] - GET /admin/classes Status 200 Time : 0.0025196075439453125s
+[INFO] | [2025-08-01 15:04:30,910] | [root] - GET /admin/classes Status 200 Time : 0.003928422927856445s
+[INFO] | [2025-08-01 15:04:45,908] | [root] - GET /admin/classes Status 200 Time : 0.003581523895263672s
+[INFO] | [2025-08-01 15:04:46,924] | [root] - GET /admin/classes Status 200 Time : 0.002630949020385742s
+[INFO] | [2025-08-01 15:04:47,906] | [root] - GET /admin/classes Status 200 Time : 0.002320528030395508s
+[INFO] | [2025-08-01 15:04:48,906] | [root] - GET /admin/classes Status 200 Time : 0.0024955272674560547s
+[INFO] | [2025-08-01 15:05:01,959] | [root] - OPTIONS /admin/create-subject Status 200 Time : 0.0001761913299560547s
+[INFO] | [2025-08-01 15:05:01,968] | [root] - POST /admin/create-subject Status 422 Time : 0.005894184112548828s
+[INFO] | [2025-08-01 15:05:13,907] | [root] - GET /admin/classes Status 200 Time : 0.002319812774658203s
+[INFO] | [2025-08-01 15:05:19,916] | [root] - GET /admin/classes Status 200 Time : 0.002818584442138672s
+[INFO] | [2025-08-01 15:05:22,915] | [root] - GET /admin/classes Status 200 Time : 0.002575397491455078s
+[INFO] | [2025-08-01 15:05:24,922] | [root] - GET /admin/classes Status 200 Time : 0.00553441047668457s
+[INFO] | [2025-08-01 15:05:36,080] | [root] - OPTIONS /admin/create-subject Status 200 Time : 0.00016307830810546875s
+[INFO] | [2025-08-01 15:05:36,108] | [root] - POST /admin/create-subject Status 201 Time : 0.02548813819885254s
+[INFO] | [2025-08-01 15:05:36,126] | [root] - GET /admin/subjects Status 404 Time : 0.0006716251373291016s
+[INFO] | [2025-08-01 15:06:13,106] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:15,437] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:17,729] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:20,240] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:22,481] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:24,923] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:27,167] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:38,915] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:42,030] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:45,322] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:06:53,813] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:10,626] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:12,859] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:34,809] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:43,622] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:46,093] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:49,410] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:53,271] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:55,617] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:07:57,786] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:00,448] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:02,729] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:08,223] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:10,470] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:14,374] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:17,580] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:32,614] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:34,826] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:37,974] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:40,352] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:53,266] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:55,708] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:08:57,790] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:01,776] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:04,035] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:06,355] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:09,756] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:12,175] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:14,543] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:16,793] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:19,174] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:21,378] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:23,603] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:25,888] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:45,985] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:48,133] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:52,714] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:55,279] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:57,476] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:09:59,783] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:02,083] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:04,241] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:07,443] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:09,638] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:11,943] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:14,159] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:16,470] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:18,693] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:20,993] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:23,139] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:25,378] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:27,570] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:29,724] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:32,016] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:34,198] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:37,385] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:44,189] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:48,969] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:10:51,029] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:11:23,463] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:11:25,990] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:11:31,436] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:12:11,469] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:12:19,207] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:12:29,828] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:12:33,717] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:12:35,824] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:12:45,791] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:12:52,983] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:13:51,943] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:13:57,178] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:13:59,413] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:14:41,682] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:14:49,545] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:14:54,312] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:15:03,058] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:15:08,577] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:15:27,473] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:15:41,051] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:15:57,963] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:17,831] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:21,881] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:24,402] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:26,800] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:29,099] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:38,315] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:40,579] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:42,808] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:45,168] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:47,441] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:49,646] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:16:53,549] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:03,490] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:06,874] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:09,026] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:26,010] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:30,230] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:32,850] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:43,474] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:47,731] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:50,335] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:17:54,779] | [root] - GET /admin/subjects Status 401 Time : 0.0009541511535644531s
+[INFO] | [2025-08-01 15:18:00,745] | [root] - GET /admin/classes Status 401 Time : 0.0006794929504394531s
+[INFO] | [2025-08-01 15:18:15,155] | [root] - OPTIONS /auth/login Status 200 Time : 0.00022459030151367188s
+[INFO] | [2025-08-01 15:18:15,504] | [root] - POST /auth/login Status 200 Time : 0.34563517570495605s
+[INFO] | [2025-08-01 15:18:50,215] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:18:52,450] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:18:54,623] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:18:56,962] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:19:00,179] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:19:33,249] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:19:35,330] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:19:38,459] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:20:08,350] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:20:14,568] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:20:33,428] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002257823944091797s
+[INFO] | [2025-08-01 15:20:33,754] | [root] - POST /auth/login Status 200 Time : 0.3228280544281006s
+[INFO] | [2025-08-01 15:20:33,796] | [root] - GET /admin/classes Status 200 Time : 0.010531187057495117s
+[INFO] | [2025-08-01 15:20:41,987] | [root] - GET /admin/subjects Status 500 Time : 0.0017809867858886719s
+[INFO] | [2025-08-01 15:20:47,015] | [root] - GET /admin/subjects Status 500 Time : 0.003737211227416992s
+[INFO] | [2025-08-01 15:22:11,365] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:22:13,574] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:22:15,848] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:22:18,102] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:22:21,840] | [root] - GET /admin/subjects Status 500 Time : 0.013828754425048828s
+[INFO] | [2025-08-01 15:22:51,848] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:22:54,151] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:22:56,428] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:23:01,607] | [root] - GET /admin/subjects Status 500 Time : 0.007210254669189453s
+[INFO] | [2025-08-01 15:23:18,524] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:23:22,096] | [root] - GET /admin/subjects Status 200 Time : 0.03390669822692871s
+[INFO] | [2025-08-01 15:23:54,779] | [root] - GET /admin/subjects Status 200 Time : 0.0065152645111083984s
+[INFO] | [2025-08-01 15:24:00,815] | [root] - GET /admin/subjects Status 200 Time : 0.0031096935272216797s
+[INFO] | [2025-08-01 15:24:11,003] | [root] - GET /admin/subjects Status 200 Time : 0.0023353099822998047s
+[INFO] | [2025-08-01 15:26:16,683] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:26:19,035] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:26:19,897] | [root] - GET /admin/subjects Status 200 Time : 0.013489246368408203s
+[INFO] | [2025-08-01 15:26:38,001] | [root] - GET /admin/subjects Status 200 Time : 0.002530336380004883s
+[INFO] | [2025-08-01 15:26:38,517] | [root] - GET /admin/subjects Status 200 Time : 0.007080793380737305s
+[INFO] | [2025-08-01 15:26:44,012] | [root] - GET /admin/subjects Status 200 Time : 0.002190113067626953s
+[INFO] | [2025-08-01 15:26:44,538] | [root] - GET /admin/subjects Status 200 Time : 0.03935503959655762s
+[INFO] | [2025-08-01 15:27:09,334] | [root] - GET /admin/subjects Status 200 Time : 0.002444744110107422s
+[INFO] | [2025-08-01 15:27:17,673] | [root] - GET /admin/subjects Status 200 Time : 0.004379749298095703s
+[INFO] | [2025-08-01 15:27:25,782] | [root] - GET /admin/classes Status 200 Time : 0.06421041488647461s
+[INFO] | [2025-08-01 15:27:26,627] | [root] - GET /admin/classes Status 200 Time : 0.002266407012939453s
+[INFO] | [2025-08-01 15:27:32,201] | [root] - GET /admin/classes Status 200 Time : 0.0031104087829589844s
+[INFO] | [2025-08-01 15:27:40,456] | [root] - GET /admin/classes Status 200 Time : 0.0031104087829589844s
+[INFO] | [2025-08-01 15:27:41,976] | [root] - GET /users Status 307 Time : 0.0007960796356201172s
+[INFO] | [2025-08-01 15:27:41,982] | [root] - GET /users/ Status 200 Time : 0.0024471282958984375s
+[INFO] | [2025-08-01 15:27:43,012] | [root] - GET /admin/classes Status 200 Time : 0.00261688232421875s
+[INFO] | [2025-08-01 15:27:44,975] | [root] - GET /admin/classes Status 200 Time : 0.00292205810546875s
+[INFO] | [2025-08-01 15:27:45,724] | [root] - GET /admin/classes Status 200 Time : 0.0026357173919677734s
+[INFO] | [2025-08-01 15:27:47,073] | [root] - GET /admin/classes Status 200 Time : 0.0034041404724121094s
+[INFO] | [2025-08-01 15:27:47,764] | [root] - GET /admin/subjects Status 200 Time : 0.002344369888305664s
+[INFO] | [2025-08-01 15:27:50,784] | [root] - GET /admin/classes Status 200 Time : 0.0025153160095214844s
+[INFO] | [2025-08-01 15:28:12,642] | [root] - GET /admin/classes Status 200 Time : 0.002850055694580078s
+[INFO] | [2025-08-01 15:28:18,146] | [root] - GET /admin/classes Status 200 Time : 0.004518747329711914s
+[INFO] | [2025-08-01 15:28:59,020] | [root] - GET /admin/classes Status 200 Time : 0.0025272369384765625s
+[INFO] | [2025-08-01 15:29:00,013] | [root] - GET /admin/classes Status 200 Time : 0.003494739532470703s
+[INFO] | [2025-08-01 15:31:40,026] | [root] - GET /admin/classes Status 200 Time : 0.002859354019165039s
+[INFO] | [2025-08-01 15:31:47,745] | [root] - GET /admin/teachers Status 404 Time : 0.0009286403656005859s
+[INFO] | [2025-08-01 15:33:40,881] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:33:43,046] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:33:47,897] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:33:52,061] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:33:54,195] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:34:19,653] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:34:22,012] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:34:32,868] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:34:35,353] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:34:37,564] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:34:54,268] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:36:52,141] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:36:54,321] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:37:26,279] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:37:28,468] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:37:30,858] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:37:33,421] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:37:35,595] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:37:42,487] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:37:50,445] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:37:52,684] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:38:05,782] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:38:24,420] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:38:27,643] | [root] - GET /admin/teachers Status 404 Time : 0.0012919902801513672s
+[INFO] | [2025-08-01 15:38:51,876] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:38:56,588] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:39:00,000] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:39:03,976] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:39:06,365] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:39:08,754] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:39:10,917] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:39:13,288] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:39:14,123] | [root] - GET /admin/teachers Status 500 Time : 0.004027128219604492s
+[INFO] | [2025-08-01 15:39:49,595] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:39:50,387] | [root] - GET /admin/teachers Status 500 Time : 0.003213644027709961s
+[INFO] | [2025-08-01 15:40:01,354] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:40:02,303] | [root] - GET /admin/teachers Status 200 Time : 0.05996561050415039s
+[INFO] | [2025-08-01 15:40:15,465] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:40:23,414] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:40:25,703] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:40:27,895] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:40:32,679] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:40:37,641] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:40:38,243] | [root] - GET /admin/teachers Status 200 Time : 0.012315034866333008s
+[INFO] | [2025-08-01 15:41:31,754] | [root] - GET /admin/teachers Status 200 Time : 0.012129545211791992s
+[INFO] | [2025-08-01 15:41:31,975] | [root] - GET /admin/teachers Status 200 Time : 0.002382993698120117s
+[INFO] | [2025-08-01 15:41:52,030] | [root] - GET /admin/teachers Status 200 Time : 0.001806497573852539s
+[INFO] | [2025-08-01 15:41:54,032] | [root] - GET /admin/teachers Status 200 Time : 0.0022013187408447266s
+[INFO] | [2025-08-01 15:41:57,027] | [root] - GET /admin/teachers Status 200 Time : 0.0017547607421875s
+[INFO] | [2025-08-01 15:41:58,030] | [root] - GET /admin/teachers Status 200 Time : 0.0019981861114501953s
+[INFO] | [2025-08-01 15:42:00,711] | [root] - GET /admin/teachers Status 200 Time : 0.002385377883911133s
+[INFO] | [2025-08-01 15:42:14,249] | [root] - GET /admin/teachers Status 200 Time : 0.0040242671966552734s
+[INFO] | [2025-08-01 15:42:21,749] | [root] - GET /admin/teachers Status 200 Time : 0.011386632919311523s
+[INFO] | [2025-08-01 15:42:44,079] | [root] - GET /admin/teachers Status 200 Time : 0.0029821395874023438s
+[INFO] | [2025-08-01 15:42:47,046] | [root] - GET /admin/teachers Status 200 Time : 0.0023772716522216797s
+[INFO] | [2025-08-01 15:42:49,035] | [root] - GET /admin/teachers Status 200 Time : 0.0018296241760253906s
+[INFO] | [2025-08-01 15:42:50,045] | [root] - GET /admin/teachers Status 200 Time : 0.0025794506072998047s
+[INFO] | [2025-08-01 15:42:51,036] | [root] - GET /admin/teachers Status 200 Time : 0.0022537708282470703s
+[INFO] | [2025-08-01 15:43:08,036] | [root] - GET /admin/teachers Status 200 Time : 0.0020308494567871094s
+[INFO] | [2025-08-01 15:43:45,705] | [root] - OPTIONS /admin/assign-teacher Status 200 Time : 0.00023555755615234375s
+[INFO] | [2025-08-01 15:43:45,718] | [root] - POST /admin/assign-teacher Status 422 Time : 0.009367704391479492s
+[INFO] | [2025-08-01 15:44:06,052] | [root] - GET /admin/teachers Status 200 Time : 0.002061128616333008s
+[INFO] | [2025-08-01 15:44:07,057] | [root] - GET /admin/teachers Status 200 Time : 0.0025157928466796875s
+[INFO] | [2025-08-01 15:44:10,057] | [root] - GET /admin/teachers Status 200 Time : 0.0018024444580078125s
+[INFO] | [2025-08-01 15:44:12,050] | [root] - GET /admin/teachers Status 200 Time : 0.0017495155334472656s
+[INFO] | [2025-08-01 15:44:13,046] | [root] - GET /admin/teachers Status 200 Time : 0.0021834373474121094s
+[INFO] | [2025-08-01 15:44:20,049] | [root] - GET /admin/teachers Status 200 Time : 0.002082347869873047s
+[INFO] | [2025-08-01 15:45:15,069] | [root] - GET /admin/teachers Status 200 Time : 0.004172325134277344s
+[INFO] | [2025-08-01 15:45:18,062] | [root] - GET /admin/teachers Status 200 Time : 0.002015829086303711s
+[INFO] | [2025-08-01 15:45:23,053] | [root] - GET /admin/teachers Status 200 Time : 0.002653360366821289s
+[INFO] | [2025-08-01 15:45:25,075] | [root] - GET /admin/teachers Status 200 Time : 0.006200313568115234s
+[INFO] | [2025-08-01 15:45:27,056] | [root] - GET /admin/teachers Status 200 Time : 0.0015552043914794922s
+[INFO] | [2025-08-01 15:45:28,058] | [root] - GET /admin/teachers Status 200 Time : 0.002165555953979492s
+[INFO] | [2025-08-01 15:45:29,063] | [root] - GET /admin/teachers Status 200 Time : 0.0018384456634521484s
+[INFO] | [2025-08-01 15:45:30,058] | [root] - GET /admin/teachers Status 200 Time : 0.002106189727783203s
+[INFO] | [2025-08-01 15:45:36,057] | [root] - GET /admin/teachers Status 200 Time : 0.003970623016357422s
+[INFO] | [2025-08-01 15:45:40,075] | [root] - GET /admin/teachers Status 200 Time : 0.0042684078216552734s
+[INFO] | [2025-08-01 15:45:42,878] | [root] - OPTIONS /admin/assign-teacher Status 200 Time : 0.0001735687255859375s
+[INFO] | [2025-08-01 15:45:42,969] | [root] - POST /admin/assign-teacher Status 201 Time : 0.08888959884643555s
+[INFO] | [2025-08-01 15:47:02,063] | [root] - GET /admin/teachers Status 200 Time : 0.002866029739379883s
+[INFO] | [2025-08-01 15:47:06,065] | [root] - GET /admin/teachers Status 200 Time : 0.002161264419555664s
+[INFO] | [2025-08-01 15:47:07,064] | [root] - GET /admin/teachers Status 200 Time : 0.001806497573852539s
+[INFO] | [2025-08-01 15:47:08,068] | [root] - GET /admin/teachers Status 200 Time : 0.002021312713623047s
+[INFO] | [2025-08-01 15:47:08,703] | [root] - GET /admin/teachers Status 200 Time : 0.0023376941680908203s
+[INFO] | [2025-08-01 15:47:10,760] | [root] - GET /admin/classes Status 200 Time : 0.00516510009765625s
+[INFO] | [2025-08-01 15:47:21,548] | [root] - GET /admin/teachers Status 200 Time : 0.0032622814178466797s
+[INFO] | [2025-08-01 15:47:24,486] | [root] - OPTIONS /admin/assign-teacher Status 200 Time : 0.00018644332885742188s
+[INFO] | [2025-08-01 15:47:24,494] | [root] - POST /admin/assign-teacher Status 201 Time : 0.005708932876586914s
+[INFO] | [2025-08-01 15:47:24,513] | [root] - GET /admin/classes Status 200 Time : 0.0026884078979492188s
+[INFO] | [2025-08-01 15:48:00,440] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:04,436] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:06,809] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:09,164] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:11,265] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:18,991] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:21,064] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:32,095] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:35,448] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:38,042] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:42,089] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:48:47,554] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:58:13,630] | [root] - GET /admin/classes Status 401 Time : 0.0010247230529785156s
+[INFO] | [2025-08-01 15:58:28,276] | [root] - OPTIONS /auth/login Status 200 Time : 0.00022482872009277344s
+[INFO] | [2025-08-01 15:58:28,727] | [root] - POST /auth/login Status 500 Time : 0.44902539253234863s
+[INFO] | [2025-08-01 15:59:00,891] | [root] - OPTIONS /auth/login Status 200 Time : 0.00018477439880371094s
+[INFO] | [2025-08-01 15:59:01,150] | [root] - POST /auth/login Status 500 Time : 0.2557106018066406s
+[INFO] | [2025-08-01 15:59:33,912] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 15:59:59,768] | [root] - OPTIONS /auth/login Status 200 Time : 0.0003540515899658203s
+[INFO] | [2025-08-01 16:00:00,106] | [root] - POST /auth/login Status 200 Time : 0.33223438262939453s
+[INFO] | [2025-08-01 16:00:00,143] | [root] - GET /admin/classes Status 200 Time : 0.017652273178100586s
+[INFO] | [2025-08-01 16:00:52,368] | [root] - OPTIONS /auth/logout Status 200 Time : 0.00022459030151367188s
+[INFO] | [2025-08-01 16:00:52,374] | [root] - DELETE /auth/logout Status 200 Time : 0.003443002700805664s
+[INFO] | [2025-08-01 16:01:05,217] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002193450927734375s
+[INFO] | [2025-08-01 16:01:05,465] | [root] - POST /auth/login Status 200 Time : 0.244171142578125s
+[INFO] | [2025-08-01 16:01:05,485] | [root] - GET /admin/classes Status 200 Time : 0.0032281875610351562s
+[INFO] | [2025-08-01 16:01:57,685] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:00,940] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:04,938] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:07,276] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:09,438] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:23,972] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:26,372] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:28,586] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:53,651] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:55,947] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:02:59,171] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:03:01,612] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:03:04,007] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:03:06,325] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:03:10,039] | [root] - OPTIONS /auth/logout Status 200 Time : 0.00048470497131347656s
+[INFO] | [2025-08-01 16:03:10,110] | [root] - DELETE /auth/logout Status 200 Time : 0.06744909286499023s
+[INFO] | [2025-08-01 16:03:26,686] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002300739288330078s
+[INFO] | [2025-08-01 16:03:26,963] | [root] - POST /auth/login Status 500 Time : 0.2740635871887207s
+[INFO] | [2025-08-01 16:05:01,985] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:05:04,146] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:05:33,794] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:05:35,916] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:05:50,778] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:26,178] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:28,733] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:31,081] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:42,086] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:44,278] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:50,853] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:53,528] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:56,837] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:06:59,112] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:07:04,687] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:07:06,894] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:07:16,973] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:07:19,235] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:07:22,760] | [root] - OPTIONS /auth/login Status 200 Time : 0.00036263465881347656s
+[INFO] | [2025-08-01 16:07:23,103] | [root] - POST /auth/login Status 500 Time : 0.3392460346221924s
+[INFO] | [2025-08-01 16:07:38,580] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:07:46,424] | [root] - OPTIONS /auth/login Status 200 Time : 0.0003287792205810547s
+[INFO] | [2025-08-01 16:07:46,770] | [root] - POST /auth/login Status 200 Time : 0.34282445907592773s
+[INFO] | [2025-08-01 16:07:46,805] | [root] - GET /admin/classes Status 200 Time : 0.018490076065063477s
+[INFO] | [2025-08-01 16:08:58,349] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:09:00,934] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:09:03,377] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:09:09,547] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:09:11,876] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:09:20,303] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:09:27,976] | [root] - OPTIONS /auth/logout Status 200 Time : 0.0003180503845214844s
+[INFO] | [2025-08-01 16:09:28,046] | [root] - DELETE /auth/logout Status 200 Time : 0.06656479835510254s
+[INFO] | [2025-08-01 16:09:44,313] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002295970916748047s
+[INFO] | [2025-08-01 16:09:44,602] | [root] - POST /auth/login Status 200 Time : 0.28513073921203613s
+[INFO] | [2025-08-01 16:09:44,639] | [root] - GET /admin/classes Status 200 Time : 0.012801647186279297s
+[INFO] | [2025-08-01 16:10:40,081] | [root] - OPTIONS /auth/logout Status 200 Time : 0.0001671314239501953s
+[INFO] | [2025-08-01 16:10:40,087] | [root] - DELETE /auth/logout Status 200 Time : 0.00266265869140625s
+[INFO] | [2025-08-01 16:10:53,765] | [root] - OPTIONS /auth/login Status 200 Time : 0.00024890899658203125s
+[INFO] | [2025-08-01 16:10:54,002] | [root] - POST /auth/login Status 500 Time : 0.23288226127624512s
+[INFO] | [2025-08-01 16:10:57,362] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002243518829345703s
+[INFO] | [2025-08-01 16:10:57,610] | [root] - POST /auth/login Status 200 Time : 0.24556279182434082s
+[INFO] | [2025-08-01 16:10:57,640] | [root] - GET /admin/classes Status 200 Time : 0.005176544189453125s
+[INFO] | [2025-08-01 16:11:47,019] | [root] - OPTIONS /auth/logout Status 200 Time : 0.00020933151245117188s
+[INFO] | [2025-08-01 16:11:47,026] | [root] - DELETE /auth/logout Status 200 Time : 0.002940654754638672s
+[INFO] | [2025-08-01 16:11:58,932] | [root] - OPTIONS /auth/login Status 200 Time : 0.00017118453979492188s
+[INFO] | [2025-08-01 16:11:59,179] | [root] - POST /auth/login Status 200 Time : 0.24377918243408203s
+[INFO] | [2025-08-01 16:11:59,198] | [root] - GET /admin/classes Status 200 Time : 0.003957271575927734s
+[INFO] | [2025-08-01 16:12:46,396] | [root] - OPTIONS /auth/logout Status 200 Time : 0.0002028942108154297s
+[INFO] | [2025-08-01 16:12:46,402] | [root] - DELETE /auth/logout Status 200 Time : 0.0030853748321533203s
+[INFO] | [2025-08-01 16:12:55,045] | [root] - OPTIONS /auth/login Status 200 Time : 0.00022935867309570312s
+[INFO] | [2025-08-01 16:12:55,285] | [root] - POST /auth/login Status 200 Time : 0.23703479766845703s
+[INFO] | [2025-08-01 16:12:55,322] | [root] - GET /admin/classes Status 200 Time : 0.0037260055541992188s
+[INFO] | [2025-08-01 16:13:15,668] | [root] - OPTIONS /auth/logout Status 200 Time : 0.00018262863159179688s
+[INFO] | [2025-08-01 16:13:15,675] | [root] - DELETE /auth/logout Status 200 Time : 0.0024640560150146484s
+[INFO] | [2025-08-01 16:13:29,173] | [root] - OPTIONS /auth/login Status 200 Time : 0.0001990795135498047s
+[INFO] | [2025-08-01 16:13:29,409] | [root] - POST /auth/login Status 200 Time : 0.2324984073638916s
+[INFO] | [2025-08-01 16:13:29,445] | [root] - GET /admin/classes Status 200 Time : 0.002323627471923828s
+[INFO] | [2025-08-01 16:13:39,757] | [root] - OPTIONS /auth/logout Status 200 Time : 0.00017547607421875s
+[INFO] | [2025-08-01 16:13:39,762] | [root] - DELETE /auth/logout Status 200 Time : 0.002329587936401367s
+[INFO] | [2025-08-01 16:13:53,742] | [root] - OPTIONS /auth/login Status 200 Time : 0.00019431114196777344s
+[INFO] | [2025-08-01 16:13:53,979] | [root] - POST /auth/login Status 200 Time : 0.23408269882202148s
+[INFO] | [2025-08-01 16:13:54,012] | [root] - GET /admin/classes Status 200 Time : 0.0030837059020996094s
+[INFO] | [2025-08-01 16:14:05,814] | [root] - OPTIONS /auth/logout Status 200 Time : 0.0004169940948486328s
+[INFO] | [2025-08-01 16:14:05,819] | [root] - DELETE /auth/logout Status 200 Time : 0.0019927024841308594s
+[INFO] | [2025-08-01 16:14:16,342] | [root] - OPTIONS /auth/login Status 200 Time : 0.00014781951904296875s
+[INFO] | [2025-08-01 16:14:16,573] | [root] - POST /auth/login Status 500 Time : 0.2287580966949463s
+[INFO] | [2025-08-01 16:14:22,631] | [root] - OPTIONS /auth/login Status 200 Time : 0.00017142295837402344s
+[INFO] | [2025-08-01 16:14:22,869] | [root] - POST /auth/login Status 500 Time : 0.23594999313354492s
+[INFO] | [2025-08-01 16:14:28,967] | [root] - OPTIONS /auth/login Status 200 Time : 0.00016164779663085938s
+[INFO] | [2025-08-01 16:14:29,203] | [root] - POST /auth/login Status 500 Time : 0.2334129810333252s
+[INFO] | [2025-08-01 16:14:39,376] | [root] - OPTIONS /auth/login Status 200 Time : 0.00017642974853515625s
+[INFO] | [2025-08-01 16:14:39,611] | [root] - POST /auth/login Status 500 Time : 0.23177289962768555s
+[INFO] | [2025-08-01 16:14:42,384] | [root] - OPTIONS /auth/login Status 200 Time : 0.00014066696166992188s
+[INFO] | [2025-08-01 16:14:42,627] | [root] - POST /auth/login Status 500 Time : 0.24021196365356445s
+[INFO] | [2025-08-01 16:15:02,516] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002009868621826172s
+[INFO] | [2025-08-01 16:15:02,750] | [root] - POST /auth/login Status 500 Time : 0.23114466667175293s
+[INFO] | [2025-08-01 16:15:07,868] | [root] - OPTIONS /auth/login Status 200 Time : 0.00019359588623046875s
+[INFO] | [2025-08-01 16:15:08,112] | [root] - POST /auth/login Status 500 Time : 0.2415764331817627s
+[INFO] | [2025-08-01 16:15:12,132] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002892017364501953s
+[INFO] | [2025-08-01 16:15:12,379] | [root] - POST /auth/login Status 500 Time : 0.24411368370056152s
+[INFO] | [2025-08-01 16:15:15,468] | [root] - OPTIONS /auth/login Status 200 Time : 0.0001671314239501953s
+[INFO] | [2025-08-01 16:15:15,708] | [root] - POST /auth/login Status 500 Time : 0.23702454566955566s
+[INFO] | [2025-08-01 16:16:00,671] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:16:03,118] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:16:07,018] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:16:09,265] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:16:14,659] | [root] - OPTIONS /auth/login Status 200 Time : 0.00031304359436035156s
+[INFO] | [2025-08-01 16:16:15,000] | [root] - POST /auth/login Status 500 Time : 0.33597803115844727s
+[INFO] | [2025-08-01 16:16:30,174] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:16:32,549] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:16:34,657] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:16:37,586] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002846717834472656s
+[INFO] | [2025-08-01 16:16:37,935] | [root] - POST /auth/login Status 500 Time : 0.3449242115020752s
+[INFO] | [2025-08-01 16:17:00,918] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:17:07,556] | [root] - OPTIONS /auth/login Status 200 Time : 0.0003509521484375s
+[INFO] | [2025-08-01 16:17:07,907] | [root] - POST /auth/login Status 500 Time : 0.3475320339202881s
+[INFO] | [2025-08-01 16:18:02,743] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:18:05,919] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:18:16,062] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:18:18,331] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:18:19,140] | [root] - OPTIONS /auth/login Status 200 Time : 0.0004596710205078125s
+[INFO] | [2025-08-01 16:18:19,480] | [root] - POST /auth/login Status 401 Time : 0.3375251293182373s
+[INFO] | [2025-08-01 16:18:38,387] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:18:40,697] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:18:43,128] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:18:45,403] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:19:04,754] | [root] - OPTIONS /auth/login Status 200 Time : 0.0005161762237548828s
+[INFO] | [2025-08-01 16:19:05,090] | [root] - POST /auth/login Status 401 Time : 0.3330705165863037s
+[INFO] | [2025-08-01 16:19:08,847] | [root] - OPTIONS /auth/login Status 200 Time : 0.00017690658569335938s
+[INFO] | [2025-08-01 16:19:09,092] | [root] - POST /auth/login Status 401 Time : 0.24225401878356934s
+[INFO] | [2025-08-01 16:19:17,457] | [root] - OPTIONS /auth/login Status 200 Time : 0.00020360946655273438s
+[INFO] | [2025-08-01 16:19:17,701] | [root] - POST /auth/login Status 200 Time : 0.24146175384521484s
+[INFO] | [2025-08-01 16:19:17,723] | [root] - GET /admin/classes Status 403 Time : 0.0031843185424804688s
+[INFO] | [2025-08-01 16:20:51,612] | [root] - OPTIONS /auth/login Status 200 Time : 0.00020813941955566406s
+[INFO] | [2025-08-01 16:20:51,859] | [root] - POST /auth/login Status 200 Time : 0.24398446083068848s
+[INFO] | [2025-08-01 16:20:51,888] | [root] - GET /admin/classes Status 403 Time : 0.001954317092895508s
+[INFO] | [2025-08-01 16:22:24,579] | [root] - OPTIONS /auth/login Status 200 Time : 0.0001804828643798828s
+[INFO] | [2025-08-01 16:22:24,814] | [root] - POST /auth/login Status 200 Time : 0.2323133945465088s
+[INFO] | [2025-08-01 16:22:24,840] | [root] - GET /admin/classes Status 403 Time : 0.002222299575805664s
+[INFO] | [2025-08-01 16:24:28,676] | [root] - OPTIONS /auth/login Status 200 Time : 0.00019049644470214844s
+[INFO] | [2025-08-01 16:24:28,921] | [root] - POST /auth/login Status 401 Time : 0.2419445514678955s
+[INFO] | [2025-08-01 16:24:39,212] | [root] - OPTIONS /auth/login Status 200 Time : 0.00018525123596191406s
+[INFO] | [2025-08-01 16:24:39,453] | [root] - POST /auth/login Status 200 Time : 0.2370288372039795s
+[INFO] | [2025-08-01 16:24:45,390] | [root] - GET /users/user-profile Status 200 Time : 0.003954172134399414s
+[INFO] | [2025-08-01 16:29:30,306] | [root] - GET /users/user-profile Status 200 Time : 0.0035400390625s
+[INFO] | [2025-08-01 16:35:35,864] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:36:19,300] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:36:25,613] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:36:50,829] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:36:59,624] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:01,925] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:04,122] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:07,329] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:10,503] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:12,731] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:15,014] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:17,394] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:19,743] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:22,019] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:24,272] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:26,480] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:28,879] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:32,082] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:34,270] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:36,639] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:38,905] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:41,172] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:43,345] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:47,500] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:49,883] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:54,682] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:57,210] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:37:59,587] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:01,814] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:05,223] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:07,665] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:10,043] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:12,326] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:14,586] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:16,890] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:19,533] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:22,495] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:25,972] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:28,053] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:31,224] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:39,124] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:41,293] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:43,547] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:45,918] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:38:47,975] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:39:29,083] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:39:40,840] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:39:44,812] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:39:50,279] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:39:57,350] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:04,572] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:06,679] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:11,642] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:13,755] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:16,899] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:25,577] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:28,028] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:30,311] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:32,829] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:35,017] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:37,224] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:39,400] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:40:49,352] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:41:13,518] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:41:19,014] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:41:21,281] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:41:26,313] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:41:28,494] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:41:33,707] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:41:47,629] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:42:42,541] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:42:44,920] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:42:49,598] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:42:53,734] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:42:56,909] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:01,732] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:04,014] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:06,306] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:08,484] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:11,842] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:14,289] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:16,573] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:18,801] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:23,564] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:25,929] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:28,014] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:31,415] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:33,518] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:36,973] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:39,206] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:41,607] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:43:43,707] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:03,143] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:09,342] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:11,539] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:26,348] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:34,195] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:36,451] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:38,635] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:40,976] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:49,900] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:52,333] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:54,471] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:56,762] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:44:59,185] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:01,346] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:08,475] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:23,244] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:25,313] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:32,449] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:36,441] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:38,756] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:46,452] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:50,416] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:45:52,629] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:46:18,770] | [root] - OPTIONS /class/assigned-class Status 200 Time : 0.0002655982971191406s
+[INFO] | [2025-08-01 16:46:18,775] | [root] - DELETE /class/assigned-class Status 404 Time : 0.0009715557098388672s
+[INFO] | [2025-08-01 16:46:42,413] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:48:07,583] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:48:09,856] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:48:12,247] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:48:19,833] | [root] - OPTIONS /auth/login Status 200 Time : 0.00023365020751953125s
+[INFO] | [2025-08-01 16:48:20,184] | [root] - POST /auth/login Status 200 Time : 0.3480343818664551s
+[INFO] | [2025-08-01 16:48:20,202] | [root] - OPTIONS /class/assigned-class Status 200 Time : 0.0003402233123779297s
+[INFO] | [2025-08-01 16:48:20,207] | [root] - DELETE /class/assigned-class Status 405 Time : 0.0016791820526123047s
+[INFO] | [2025-08-01 16:50:15,796] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 16:50:32,283] | [root] - OPTIONS /auth/login Status 200 Time : 0.00029969215393066406s
+[INFO] | [2025-08-01 16:50:32,621] | [root] - POST /auth/login Status 401 Time : 0.3342158794403076s
+[INFO] | [2025-08-01 16:50:39,923] | [root] - OPTIONS /auth/login Status 200 Time : 0.00017762184143066406s
+[INFO] | [2025-08-01 16:50:40,167] | [root] - POST /auth/login Status 200 Time : 0.24158430099487305s
+[INFO] | [2025-08-01 16:50:40,188] | [root] - OPTIONS /class/assigned-class Status 200 Time : 0.0001938343048095703s
+[INFO] | [2025-08-01 16:50:40,193] | [root] - DELETE /class/assigned-class Status 405 Time : 0.0007948875427246094s
+[INFO] | [2025-08-01 16:51:21,523] | [root] - OPTIONS /auth/login Status 200 Time : 0.00019121170043945312s
+[INFO] | [2025-08-01 16:51:21,785] | [root] - POST /auth/login Status 200 Time : 0.25832533836364746s
+[INFO] | [2025-08-01 16:51:21,820] | [root] - GET /class/assigned-class Status 200 Time : 0.01733708381652832s
+[INFO] | [2025-08-01 16:52:13,600] | [root] - OPTIONS /auth/login Status 200 Time : 0.00018310546875s
+[INFO] | [2025-08-01 16:52:13,849] | [root] - POST /auth/login Status 401 Time : 0.24597406387329102s
+[INFO] | [2025-08-01 16:52:28,813] | [root] - OPTIONS /auth/login Status 200 Time : 0.00014853477478027344s
+[INFO] | [2025-08-01 16:52:29,051] | [root] - POST /auth/login Status 200 Time : 0.2356264591217041s
+[INFO] | [2025-08-01 16:52:29,076] | [root] - GET /class/assigned-class Status 200 Time : 0.002023458480834961s
+[INFO] | [2025-08-01 16:53:42,261] | [root] - GET /class/assigned-class Status 200 Time : 0.0028650760650634766s
+[INFO] | [2025-08-01 16:53:45,260] | [root] - GET /class/assigned-class Status 200 Time : 0.0020818710327148438s
+[INFO] | [2025-08-01 16:53:46,257] | [root] - GET /class/assigned-class Status 200 Time : 0.0031518936157226562s
+[INFO] | [2025-08-01 16:53:48,788] | [root] - GET /class/assigned-class Status 200 Time : 0.0036144256591796875s
+[INFO] | [2025-08-01 16:54:00,870] | [root] - GET /class/assigned-class Status 200 Time : 0.0022482872009277344s
+[INFO] | [2025-08-01 16:54:20,885] | [root] - GET /class/assigned-class Status 200 Time : 0.002851724624633789s
+[INFO] | [2025-08-01 17:02:08,399] | [root] - GET /class/assigned-class Status 200 Time : 0.1379706859588623s
+[INFO] | [2025-08-01 17:03:05,474] | [root] - GET /class/assigned-class Status 200 Time : 0.0026204586029052734s
+[INFO] | [2025-08-01 17:03:06,527] | [root] - GET /class/assigned-class Status 200 Time : 0.0072863101959228516s
+[INFO] | [2025-08-01 17:04:07,651] | [root] - GET /class/assigned-class Status 200 Time : 0.002459287643432617s
+[INFO] | [2025-08-01 17:04:10,745] | [root] - GET /class/assigned-class Status 200 Time : 0.0026209354400634766s
+[INFO] | [2025-08-01 17:06:56,104] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:08:25,055] | [root] - GET /class/assigned-class Status 200 Time : 0.01354074478149414s
+[INFO] | [2025-08-01 17:08:26,678] | [root] - GET /class/assigned-class Status 200 Time : 0.004372119903564453s
+[INFO] | [2025-08-01 17:09:27,788] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:10:37,626] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:10:49,149] | [root] - POST /auth/login Status 200 Time : 0.3453819751739502s
+[INFO] | [2025-08-01 17:11:19,621] | [root] - GET /admin/classes Status 403 Time : 0.0022721290588378906s
+[INFO] | [2025-08-01 17:12:17,489] | [root] - POST /study-materials/upload Status 422 Time : 0.013165473937988281s
+[INFO] | [2025-08-01 17:12:34,129] | [root] - POST /study-materials/upload Status 201 Time : 0.010848760604858398s
+[INFO] | [2025-08-01 17:12:58,421] | [root] - POST /study-materials/upload Status 201 Time : 0.004379987716674805s
+[INFO] | [2025-08-01 17:13:10,508] | [root] - POST /study-materials/upload Status 201 Time : 0.0038881301879882812s
+[INFO] | [2025-08-01 17:13:55,030] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:13:57,205] | [root] - POST /study-materials/upload Status 201 Time : 0.011893749237060547s
+[INFO] | [2025-08-01 17:14:37,014] | [root] - POST /auth/login Status 200 Time : 0.33458662033081055s
+[INFO] | [2025-08-01 17:15:40,825] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:15:48,014] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:15:55,820] | [root] - POST /study-materials/upload Status 201 Time : 0.04200315475463867s
+[INFO] | [2025-08-01 17:16:15,263] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:16:22,364] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:16:24,486] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:16:29,813] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:16:34,757] | [root] - POST /study-materials/upload Status 201 Time : 0.020676612854003906s
+[INFO] | [2025-08-01 17:16:51,503] | [root] - POST /study-materials/upload Status 201 Time : 0.007167816162109375s
+[INFO] | [2025-08-01 17:18:54,340] | [root] - POST /study-materials/upload Status 422 Time : 0.005876064300537109s
+[INFO] | [2025-08-01 17:19:54,453] | [root] - POST /study-materials/upload Status 422 Time : 0.004271984100341797s
+[INFO] | [2025-08-01 17:21:35,118] | [root] - POST /study-materials/upload Status 201 Time : 0.010927915573120117s
+[INFO] | [2025-08-01 17:22:04,718] | [root] - GET /class/assigned-class Status 200 Time : 0.0043315887451171875s
+[INFO] | [2025-08-01 17:22:07,752] | [root] - GET /class/assigned-class Status 200 Time : 0.0041615962982177734s
+[INFO] | [2025-08-01 17:23:22,281] | [root] - GET /class/assigned-class Status 401 Time : 0.0005462169647216797s
+[INFO] | [2025-08-01 17:26:15,383] | [root] - OPTIONS /auth/login Status 200 Time : 0.000213623046875s
+[INFO] | [2025-08-01 17:26:15,741] | [root] - POST /auth/login Status 401 Time : 0.35543107986450195s
+[INFO] | [2025-08-01 17:26:22,784] | [root] - OPTIONS /auth/login Status 200 Time : 0.0002067089080810547s
+[INFO] | [2025-08-01 17:26:23,068] | [root] - POST /auth/login Status 200 Time : 0.2811112403869629s
+[INFO] | [2025-08-01 17:26:23,100] | [root] - GET /class/assigned-class Status 200 Time : 0.011929035186767578s
+[INFO] | [2025-08-01 17:26:33,404] | [root] - GET /class/assigned-class Status 200 Time : 0.0038726329803466797s
+[INFO] | [2025-08-01 17:26:50,337] | [root] - GET /class/2 Status 404 Time : 0.0012121200561523438s
+[INFO] | [2025-08-01 17:26:50,339] | [root] - GET /class/assigned-class Status 200 Time : 0.005495548248291016s
+[INFO] | [2025-08-01 17:26:51,325] | [root] - GET /class/2 Status 404 Time : 0.0008907318115234375s
+[INFO] | [2025-08-01 17:26:51,327] | [root] - GET /class/assigned-class Status 200 Time : 0.0046160221099853516s
+[INFO] | [2025-08-01 17:26:52,330] | [root] - GET /class/2 Status 404 Time : 0.001547098159790039s
+[INFO] | [2025-08-01 17:26:52,331] | [root] - GET /class/assigned-class Status 200 Time : 0.003731250762939453s
+[INFO] | [2025-08-01 17:26:53,331] | [root] - GET /class/2 Status 404 Time : 0.0008625984191894531s
+[INFO] | [2025-08-01 17:26:53,333] | [root] - GET /class/assigned-class Status 200 Time : 0.003641366958618164s
+[INFO] | [2025-08-01 17:26:55,096] | [root] - GET /class/2 Status 404 Time : 0.0018532276153564453s
+[INFO] | [2025-08-01 17:26:55,100] | [root] - GET /class/assigned-class Status 200 Time : 0.0070688724517822266s
+[INFO] | [2025-08-01 17:27:00,725] | [root] - GET /class/assigned-class Status 200 Time : 0.005948066711425781s
+[INFO] | [2025-08-01 17:27:11,336] | [root] - GET /class/assigned-class Status 200 Time : 0.002902507781982422s
+[INFO] | [2025-08-01 17:27:12,337] | [root] - GET /class/2 Status 404 Time : 0.0011682510375976562s
+[INFO] | [2025-08-01 17:27:12,338] | [root] - GET /class/assigned-class Status 200 Time : 0.004100322723388672s
+[INFO] | [2025-08-01 17:27:14,338] | [root] - GET /class/assigned-class Status 200 Time : 0.002042055130004883s
+[INFO] | [2025-08-01 17:27:15,339] | [root] - GET /class/assigned-class Status 200 Time : 0.0028696060180664062s
+[INFO] | [2025-08-01 17:27:15,341] | [root] - GET /class/2 Status 404 Time : 0.002233266830444336s
+[INFO] | [2025-08-01 17:27:19,146] | [root] - GET /class/2 Status 404 Time : 0.002001523971557617s
+[INFO] | [2025-08-01 17:27:19,148] | [root] - GET /class/assigned-class Status 200 Time : 0.004503965377807617s
+[INFO] | [2025-08-01 17:27:21,648] | [root] - GET /class/assigned-class Status 200 Time : 0.0031998157501220703s
+[INFO] | [2025-08-01 17:27:26,325] | [root] - GET /class/2 Status 404 Time : 0.0008869171142578125s
+[INFO] | [2025-08-01 17:27:26,326] | [root] - GET /class/assigned-class Status 200 Time : 0.004044294357299805s
+[INFO] | [2025-08-01 17:27:28,895] | [root] - GET /class/assigned-class Status 200 Time : 0.0027976036071777344s
+[INFO] | [2025-08-01 17:27:34,155] | [root] - GET /class/assigned-class Status 200 Time : 0.0035288333892822266s
+[INFO] | [2025-08-01 17:27:42,335] | [root] - GET /class/2 Status 404 Time : 0.0010561943054199219s
+[INFO] | [2025-08-01 17:27:42,336] | [root] - GET /class/assigned-class Status 200 Time : 0.004932880401611328s
+[INFO] | [2025-08-01 17:27:43,342] | [root] - GET /class/assigned-class Status 200 Time : 0.0043413639068603516s
+[INFO] | [2025-08-01 17:27:47,333] | [root] - GET /class/assigned-class Status 200 Time : 0.002241373062133789s
+[INFO] | [2025-08-01 17:27:52,335] | [root] - GET /class/assigned-class Status 200 Time : 0.0019159317016601562s
+[INFO] | [2025-08-01 17:27:57,349] | [root] - GET /class/assigned-class Status 200 Time : 0.0021109580993652344s
+[INFO] | [2025-08-01 17:27:59,341] | [root] - GET /class/assigned-class Status 200 Time : 0.0021657943725585938s
+[INFO] | [2025-08-01 17:28:03,337] | [root] - GET /class/assigned-class Status 200 Time : 0.003195524215698242s
+[INFO] | [2025-08-01 17:28:03,338] | [root] - GET /class/2 Status 404 Time : 0.0015730857849121094s
+[INFO] | [2025-08-01 17:28:04,347] | [root] - GET /class/2 Status 404 Time : 0.0008392333984375s
+[INFO] | [2025-08-01 17:28:04,349] | [root] - GET /class/assigned-class Status 200 Time : 0.0037915706634521484s
+[INFO] | [2025-08-01 17:28:07,341] | [root] - GET /class/assigned-class Status 200 Time : 0.004867076873779297s
+[INFO] | [2025-08-01 17:28:07,346] | [root] - GET /class/2 Status 404 Time : 0.0007414817810058594s
+[INFO] | [2025-08-01 17:28:08,344] | [root] - GET /class/assigned-class Status 200 Time : 0.002934694290161133s
+[INFO] | [2025-08-01 17:28:08,345] | [root] - GET /class/2 Status 404 Time : 0.0016980171203613281s
+[INFO] | [2025-08-01 17:28:09,348] | [root] - GET /class/assigned-class Status 200 Time : 0.00261688232421875s
+[INFO] | [2025-08-01 17:28:09,349] | [root] - GET /class/2 Status 404 Time : 0.001485586166381836s
+[INFO] | [2025-08-01 17:28:10,352] | [root] - GET /class/2 Status 404 Time : 0.0007817745208740234s
+[INFO] | [2025-08-01 17:28:10,354] | [root] - GET /class/assigned-class Status 200 Time : 0.0038895606994628906s
+[INFO] | [2025-08-01 17:28:12,344] | [root] - GET /class/2 Status 404 Time : 0.0009243488311767578s
+[INFO] | [2025-08-01 17:28:12,346] | [root] - GET /class/assigned-class Status 200 Time : 0.00421905517578125s
+[INFO] | [2025-08-01 17:28:13,344] | [root] - GET /class/2 Status 404 Time : 0.0007970333099365234s
+[INFO] | [2025-08-01 17:28:13,345] | [root] - GET /class/assigned-class Status 200 Time : 0.003777742385864258s
+[INFO] | [2025-08-01 17:28:20,347] | [root] - GET /class/ClassIdForMaterial Status 404 Time : 0.0010073184967041016s
+[INFO] | [2025-08-01 17:28:20,349] | [root] - GET /class/assigned-class Status 200 Time : 0.004431009292602539s
+[INFO] | [2025-08-01 17:28:23,348] | [root] - GET /class/{ClassIdForMaterial} Status 404 Time : 0.0008475780487060547s
+[INFO] | [2025-08-01 17:28:23,350] | [root] - GET /class/assigned-class Status 200 Time : 0.004118204116821289s
+[INFO] | [2025-08-01 17:28:26,349] | [root] - GET /class/assigned-class Status 200 Time : 0.0019519329071044922s
+[INFO] | [2025-08-01 17:28:26,382] | [root] - GET /class/2 Status 404 Time : 0.0006046295166015625s
+[INFO] | [2025-08-01 17:28:28,498] | [root] - GET /class/assigned-class Status 200 Time : 0.002529144287109375s
+[INFO] | [2025-08-01 17:28:49,327] | [root] - GET /class/assigned-class Status 200 Time : 0.0027840137481689453s
+[INFO] | [2025-08-01 17:29:37,098] | [root] - GET /class/assigned-class Status 200 Time : 0.0057218074798583984s
+[INFO] | [2025-08-01 17:29:37,101] | [root] - GET /class/2 Status 404 Time : 0.0006837844848632812s
+[INFO] | [2025-08-01 17:29:38,973] | [root] - GET /class/assigned-class Status 200 Time : 0.0027892589569091797s
+[INFO] | [2025-08-01 17:29:45,354] | [root] - GET /class/2 Status 404 Time : 0.0009243488311767578s
+[INFO] | [2025-08-01 17:29:45,355] | [root] - GET /class/assigned-class Status 200 Time : 0.00447535514831543s
+[INFO] | [2025-08-01 17:29:47,074] | [root] - GET /class/undefined Status 404 Time : 0.0014958381652832031s
+[INFO] | [2025-08-01 17:29:47,076] | [root] - GET /class/assigned-class Status 200 Time : 0.006150960922241211s
+[INFO] | [2025-08-01 17:30:01,360] | [root] - GET /class/assigned-class Status 200 Time : 0.002086162567138672s
+[INFO] | [2025-08-01 17:30:01,364] | [root] - GET /class/2 Status 404 Time : 0.0007297992706298828s
+[INFO] | [2025-08-01 17:30:41,375] | [root] - GET /class/2 Status 404 Time : 0.0008404254913330078s
+[INFO] | [2025-08-01 17:30:41,376] | [root] - GET /class/assigned-class Status 200 Time : 0.004056453704833984s
+[INFO] | [2025-08-01 17:30:54,377] | [root] - GET /class/undefined Status 404 Time : 0.0022771358489990234s
+[INFO] | [2025-08-01 17:30:54,378] | [root] - GET /class/assigned-class Status 200 Time : 0.0064699649810791016s
+[INFO] | [2025-08-01 17:31:03,370] | [root] - GET /class/assigned-class Status 200 Time : 0.0038917064666748047s
+[INFO] | [2025-08-01 17:31:03,372] | [root] - GET /class/2 Status 404 Time : 0.0010581016540527344s
+[INFO] | [2025-08-01 17:31:04,371] | [root] - GET /class/2 Status 404 Time : 0.0012969970703125s
+[INFO] | [2025-08-01 17:31:04,373] | [root] - GET /class/assigned-class Status 200 Time : 0.004634380340576172s
+[INFO] | [2025-08-01 17:31:06,371] | [root] - GET /class/2 Status 404 Time : 0.0008344650268554688s
+[INFO] | [2025-08-01 17:31:06,373] | [root] - GET /class/assigned-class Status 200 Time : 0.004757404327392578s
+[INFO] | [2025-08-01 17:31:10,379] | [root] - GET /class/2 Status 404 Time : 0.0007786750793457031s
+[INFO] | [2025-08-01 17:31:10,380] | [root] - GET /class/assigned-class Status 200 Time : 0.003525257110595703s
+[INFO] | [2025-08-01 17:31:16,386] | [root] - GET /class/2 Status 404 Time : 0.001850128173828125s
+[INFO] | [2025-08-01 17:31:16,389] | [root] - GET /class/assigned-class Status 200 Time : 0.008345365524291992s
+[INFO] | [2025-08-01 17:31:19,376] | [root] - GET /class/2 Status 404 Time : 0.001020669937133789s
+[INFO] | [2025-08-01 17:31:19,377] | [root] - GET /class/assigned-class Status 200 Time : 0.004115581512451172s
+[INFO] | [2025-08-01 17:31:32,379] | [root] - GET /class/undefined Status 404 Time : 0.0008873939514160156s
+[INFO] | [2025-08-01 17:31:32,380] | [root] - GET /class/assigned-class Status 200 Time : 0.0040094852447509766s
+[INFO] | [2025-08-01 17:31:34,373] | [root] - GET /class/undefined Status 404 Time : 0.0007510185241699219s
+[INFO] | [2025-08-01 17:31:34,374] | [root] - GET /class/assigned-class Status 200 Time : 0.004014015197753906s
+[INFO] | [2025-08-01 17:31:40,496] | [root] - GET /class/undefined Status 404 Time : 0.0018835067749023438s
+[INFO] | [2025-08-01 17:31:40,501] | [root] - GET /class/assigned-class Status 200 Time : 0.00997614860534668s
+[INFO] | [2025-08-01 17:31:58,388] | [root] - GET /class/assigned-class Status 200 Time : 0.0031142234802246094s
+[INFO] | [2025-08-01 17:31:59,375] | [root] - GET /class/assigned-class Status 200 Time : 0.0022170543670654297s
+[INFO] | [2025-08-01 17:32:01,910] | [root] - GET /class/2 Status 404 Time : 0.0018384456634521484s
+[INFO] | [2025-08-01 17:32:01,921] | [root] - GET /class/assigned-class Status 200 Time : 0.018659353256225586s
+[INFO] | [2025-08-01 17:32:03,064] | [root] - GET /class/ Status 404 Time : 0.0018627643585205078s
+[INFO] | [2025-08-01 17:32:03,070] | [root] - GET /class/assigned-class Status 200 Time : 0.010823965072631836s
+[INFO] | [2025-08-01 17:32:55,396] | [root] - GET /class/2 Status 404 Time : 0.0008943080902099609s
+[INFO] | [2025-08-01 17:32:55,398] | [root] - GET /class/assigned-class Status 200 Time : 0.0056188106536865234s
+[INFO] | [2025-08-01 17:33:00,385] | [root] - GET /class/undefined Status 404 Time : 0.0017383098602294922s
+[INFO] | [2025-08-01 17:33:00,386] | [root] - GET /class/assigned-class Status 200 Time : 0.003989696502685547s
+[INFO] | [2025-08-01 17:34:20,237] | [root] - OPTIONS /auth/login Status 200 Time : 0.00019693374633789062s
+[INFO] | [2025-08-01 17:34:20,474] | [root] - POST /auth/login Status 200 Time : 0.2338886260986328s
+[INFO] | [2025-08-01 17:34:20,500] | [root] - GET /class/assigned-class Status 200 Time : 0.0019865036010742188s
+[INFO] | [2025-08-01 17:34:20,514] | [root] - GET /class/ Status 404 Time : 0.0005106925964355469s
+[INFO] | [2025-08-01 17:36:37,413] | [root] - GET /class/assigned-class Status 200 Time : 0.0027434825897216797s
+[INFO] | [2025-08-01 17:36:39,412] | [root] - GET /class/assigned-class Status 200 Time : 0.0021848678588867188s
+[INFO] | [2025-08-01 17:36:40,412] | [root] - GET /class/ Status 404 Time : 0.0008058547973632812s
+[INFO] | [2025-08-01 17:36:40,413] | [root] - GET /class/assigned-class Status 200 Time : 0.003912687301635742s
+[INFO] | [2025-08-01 17:36:40,423] | [root] - GET /class/2 Status 404 Time : 0.0010182857513427734s
+[INFO] | [2025-08-01 17:36:42,831] | [root] - GET /class/ Status 404 Time : 0.002811431884765625s
+[INFO] | [2025-08-01 17:36:42,834] | [root] - GET /class/assigned-class Status 200 Time : 0.0069315433502197266s
+[INFO] | [2025-08-01 17:36:42,845] | [root] - GET /class/2 Status 404 Time : 0.001409292221069336s
+[INFO] | [2025-08-01 17:36:44,880] | [root] - GET /class/ Status 404 Time : 0.0013115406036376953s
+[INFO] | [2025-08-01 17:36:44,882] | [root] - GET /class/assigned-class Status 200 Time : 0.005461454391479492s
+[INFO] | [2025-08-01 17:36:44,898] | [root] - GET /class/2 Status 404 Time : 0.0007908344268798828s
+[INFO] | [2025-08-01 17:36:59,419] | [root] - GET /studyclass/2 Status 404 Time : 0.0021822452545166016s
+[INFO] | [2025-08-01 17:36:59,421] | [root] - GET /class/assigned-class Status 200 Time : 0.0052454471588134766s
+[INFO] | [2025-08-01 17:37:02,440] | [root] - GET /study-materialclass/2 Status 404 Time : 0.0013499259948730469s
+[INFO] | [2025-08-01 17:37:02,443] | [root] - GET /class/assigned-class Status 200 Time : 0.009809494018554688s
+[INFO] | [2025-08-01 17:37:04,418] | [root] - GET /class/assigned-class Status 200 Time : 0.005451679229736328s
+[INFO] | [2025-08-01 17:37:04,582] | [root] - GET /study-materials/class/2 Status 200 Time : 0.1675124168395996s
+[INFO] | [2025-08-01 17:37:06,869] | [root] - GET /study-materials/class/ Status 404 Time : 0.0011010169982910156s
+[INFO] | [2025-08-01 17:37:06,889] | [root] - GET /class/assigned-class Status 200 Time : 0.0390162467956543s
+[INFO] | [2025-08-01 17:37:06,902] | [root] - GET /study-materials/class/2 Status 200 Time : 0.002489328384399414s
+[INFO] | [2025-08-01 17:37:19,861] | [root] - GET /study-materials/class/ Status 404 Time : 0.002809762954711914s
+[INFO] | [2025-08-01 17:37:19,863] | [root] - GET /class/assigned-class Status 200 Time : 0.0070493221282958984s
+[INFO] | [2025-08-01 17:37:19,886] | [root] - GET /study-materials/class/2 Status 200 Time : 0.002755880355834961s
+[INFO] | [2025-08-01 17:37:40,898] | [root] - GET /study-materials/class/ Status 404 Time : 0.0008866786956787109s
+[INFO] | [2025-08-01 17:37:40,899] | [root] - GET /class/assigned-class Status 200 Time : 0.004617214202880859s
+[INFO] | [2025-08-01 17:37:40,913] | [root] - GET /study-materials/class/2 Status 200 Time : 0.002408266067504883s
+[INFO] | [2025-08-01 17:38:21,427] | [root] - GET /class/assigned-class Status 200 Time : 0.003032207489013672s
+[INFO] | [2025-08-01 17:38:21,430] | [root] - GET /study-materials/class/ Status 404 Time : 0.001207590103149414s
+[INFO] | [2025-08-01 17:38:21,454] | [root] - GET /study-materials/class/2 Status 200 Time : 0.0025844573974609375s
+[INFO] | [2025-08-01 17:38:22,414] | [root] - GET /study-materials/class/ Status 404 Time : 0.0009477138519287109s
+[INFO] | [2025-08-01 17:38:22,416] | [root] - GET /class/assigned-class Status 200 Time : 0.003635883331298828s
+[INFO] | [2025-08-01 17:38:22,428] | [root] - GET /study-materials/class/2 Status 200 Time : 0.002011537551879883s
+[INFO] | [2025-08-01 17:38:25,419] | [root] - GET /class/assigned-class Status 200 Time : 0.0026450157165527344s
+[INFO] | [2025-08-01 17:38:25,422] | [root] - GET /study-materials/class/ Status 404 Time : 0.0006849765777587891s
+[INFO] | [2025-08-01 17:38:25,433] | [root] - GET /study-materials/class/2 Status 200 Time : 0.0027205944061279297s
+[INFO] | [2025-08-01 17:38:26,425] | [root] - GET /study-materials/class/ Status 404 Time : 0.0011115074157714844s
+[INFO] | [2025-08-01 17:38:26,427] | [root] - GET /class/assigned-class Status 200 Time : 0.004850149154663086s
+[INFO] | [2025-08-01 17:38:26,443] | [root] - GET /study-materials/class/2 Status 200 Time : 0.003976106643676758s
+[INFO] | [2025-08-01 17:38:27,429] | [root] - GET /study-materials/class/ Status 404 Time : 0.0010192394256591797s
+[INFO] | [2025-08-01 17:38:27,431] | [root] - GET /class/assigned-class Status 200 Time : 0.004327535629272461s
+[INFO] | [2025-08-01 17:38:27,448] | [root] - GET /study-materials/class/2 Status 200 Time : 0.002549409866333008s
+[INFO] | [2025-08-01 17:38:29,415] | [root] - GET /study-materials/class/ Status 404 Time : 0.0009846687316894531s
+[INFO] | [2025-08-01 17:38:29,417] | [root] - GET /class/assigned-class Status 200 Time : 0.004465579986572266s
+[INFO] | [2025-08-01 17:38:29,431] | [root] - GET /study-materials/class/2 Status 200 Time : 0.002583026885986328s
+[INFO] | [2025-08-01 17:38:43,424] | [root] - GET /class/assigned-class Status 200 Time : 0.005286216735839844s
+[INFO] | [2025-08-01 17:38:43,427] | [root] - GET /study-materials/class/2 Status 200 Time : 0.005004405975341797s
+[INFO] | [2025-08-01 17:38:47,149] | [root] - GET /class/assigned-class Status 200 Time : 0.005173444747924805s
+[INFO] | [2025-08-01 17:38:47,163] | [root] - GET /study-materials/class/2 Status 200 Time : 0.01857137680053711s
+[INFO] | [2025-08-01 17:38:48,538] | [root] - GET /study-materials/class/ Status 404 Time : 0.0014109611511230469s
+[INFO] | [2025-08-01 17:38:48,541] | [root] - GET /class/assigned-class Status 200 Time : 0.006752967834472656s
+[INFO] | [2025-08-01 17:38:48,559] | [root] - GET /study-materials/class/2 Status 200 Time : 0.0043795108795166016s
+[INFO] | [2025-08-01 17:38:54,429] | [root] - GET /class/assigned-class Status 200 Time : 0.003619670867919922s
+[INFO] | [2025-08-01 17:38:54,430] | [root] - GET /study-materials/class/2 Status 200 Time : 0.0031147003173828125s
+[INFO] | [2025-08-01 17:38:55,429] | [root] - GET /class/assigned-class Status 200 Time : 0.0036013126373291016s
+[INFO] | [2025-08-01 17:38:55,431] | [root] - GET /study-materials/class/2 Status 200 Time : 0.004553794860839844s
+[INFO] | [2025-08-01 17:38:57,927] | [root] - GET /study-materials/class/ Status 404 Time : 0.001024484634399414s
+[INFO] | [2025-08-01 17:38:57,932] | [root] - GET /class/assigned-class Status 200 Time : 0.007828474044799805s
+[INFO] | [2025-08-01 17:38:57,945] | [root] - GET /study-materials/class/2 Status 200 Time : 0.002696990966796875s
+[INFO] | [2025-08-01 17:38:59,214] | [root] - GET /study-materials/class/ Status 404 Time : 0.006892681121826172s
+[INFO] | [2025-08-01 17:38:59,219] | [root] - GET /class/assigned-class Status 200 Time : 0.011788368225097656s
+[INFO] | [2025-08-01 17:38:59,241] | [root] - GET /study-materials/class/2 Status 200 Time : 0.0026481151580810547s
+[INFO] | [2025-08-01 17:41:41,294] | [root] - GET /class/assigned-class Status 200 Time : 0.0028162002563476562s
+[INFO] | [2025-08-01 17:41:41,309] | [root] - GET /study-materials/class/2 Status 200 Time : 0.002501964569091797s
+[INFO] | [2025-08-01 17:41:47,372] | [root] - GET /uploads/study_materials/51bcb234-501a-497f-9182-d4919c7cc15d.pdf Status 200 Time : 0.10701656341552734s
+[INFO] | [2025-08-01 17:41:47,466] | [root] - GET /favicon.ico Status 404 Time : 0.0006284713745117188s
+[INFO] | [2025-08-01 17:41:51,654] | [root] - GET /uploads/study_materials/6d380fc4-b8d3-436d-8c78-ddb340b8a251.pdf Status 200 Time : 0.0014538764953613281s
+[INFO] | [2025-08-01 17:41:51,714] | [root] - GET /favicon.ico Status 401 Time : 0.00040531158447265625s
+[INFO] | [2025-08-01 17:47:20,980] | [root] - GET /class/assigned-class Status 200 Time : 0.12907719612121582s
+[INFO] | [2025-08-01 17:47:20,993] | [root] - GET /study-materials/class/2 Status 200 Time : 0.005893230438232422s
+[INFO] | [2025-08-01 17:47:22,648] | [root] - GET /class/assigned-class Status 200 Time : 0.004054069519042969s
+[INFO] | [2025-08-01 17:47:22,659] | [root] - GET /study-materials/class/2 Status 200 Time : 0.0018856525421142578s
+[INFO] | [2025-08-01 17:47:35,403] | [root] - GET /users/user-profile Status 200 Time : 0.06520223617553711s
+[INFO] | [2025-08-01 17:47:36,876] | [root] - GET /class/assigned-class Status 200 Time : 0.002799510955810547s
+[INFO] | [2025-08-01 17:47:36,888] | [root] - GET /study-materials/class/2 Status 200 Time : 0.004469156265258789s
+[INFO] | [2025-08-01 17:49:01,268] | [root] - OPTIONS /auth/logout Status 200 Time : 0.0002663135528564453s
+[INFO] | [2025-08-01 17:49:01,274] | [root] - DELETE /auth/logout Status 200 Time : 0.002858877182006836s
+[INFO] | [2025-08-01 17:49:14,757] | [root] - OPTIONS /auth/login Status 200 Time : 0.00018262863159179688s
+[INFO] | [2025-08-01 17:49:14,991] | [root] - POST /auth/login Status 200 Time : 0.23134160041809082s
+[INFO] | [2025-08-01 17:49:15,025] | [root] - GET /admin/classes Status 200 Time : 0.003747701644897461s
+[INFO] | [2025-08-01 17:49:25,479] | [root] - GET /admin/classes Status 200 Time : 0.0025818347930908203s
+[INFO] | [2025-08-01 17:49:27,235] | [root] - GET /users Status 307 Time : 0.0005240440368652344s
+[INFO] | [2025-08-01 17:49:27,242] | [root] - GET /users/ Status 200 Time : 0.0030913352966308594s
+[INFO] | [2025-08-01 17:49:28,879] | [root] - GET /admin/classes Status 200 Time : 0.003101348876953125s
+[INFO] | [2025-08-01 17:49:31,535] | [root] - GET /admin/classes Status 200 Time : 0.0025796890258789062s
+[INFO] | [2025-08-01 17:49:32,442] | [root] - GET /admin/classes Status 200 Time : 0.002575397491455078s
+[INFO] | [2025-08-01 17:49:33,958] | [root] - GET /admin/classes Status 200 Time : 0.002291440963745117s
+[INFO] | [2025-08-01 17:49:35,392] | [root] - GET /admin/subjects Status 200 Time : 0.0027649402618408203s
+[INFO] | [2025-08-01 17:49:43,638] | [root] - GET /admin/subjects Status 200 Time : 0.0036182403564453125s
+[INFO] | [2025-08-01 17:50:50,500] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:50:53,009] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:50:55,283] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:51:01,156] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:51:02,141] | [root] - GET /admin/subjects Status 200 Time : 0.02251744270324707s
+[INFO] | [2025-08-01 17:51:19,117] | [root] - GET /admin/classes Status 200 Time : 0.06382942199707031s
+[INFO] | [2025-08-01 17:51:24,300] | [root] - GET /admin/subjects Status 200 Time : 0.0027475357055664062s
+[INFO] | [2025-08-01 17:51:25,423] | [root] - GET /admin/classes Status 200 Time : 0.003061056137084961s
+[INFO] | [2025-08-01 17:51:26,943] | [root] - GET /admin/classes Status 200 Time : 0.003511667251586914s
+[INFO] | [2025-08-01 17:51:27,647] | [root] - GET /users Status 307 Time : 0.0005316734313964844s
+[INFO] | [2025-08-01 17:51:27,656] | [root] - GET /users/ Status 200 Time : 0.003504514694213867s
+[INFO] | [2025-08-01 17:51:28,253] | [root] - GET /admin/classes Status 200 Time : 0.0024352073669433594s
+[INFO] | [2025-08-01 17:51:30,128] | [root] - GET /admin/classes Status 200 Time : 0.0033292770385742188s
+[INFO] | [2025-08-01 17:51:30,977] | [root] - GET /admin/classes Status 200 Time : 0.00214385986328125s
+[INFO] | [2025-08-01 17:51:32,000] | [root] - GET /admin/classes Status 200 Time : 0.002624988555908203s
+[INFO] | [2025-08-01 17:51:32,749] | [root] - GET /users/user-profile Status 200 Time : 0.0024602413177490234s
+[INFO] | [2025-08-01 17:51:34,360] | [root] - GET /admin/classes Status 200 Time : 0.002802133560180664s
+[INFO] | [2025-08-01 17:51:43,048] | [root] - GET /admin/classes Status 200 Time : 0.0029060840606689453s
+[INFO] | [2025-08-01 17:51:45,130] | [root] - GET /users Status 307 Time : 0.0005075931549072266s
+[INFO] | [2025-08-01 17:51:45,137] | [root] - GET /users/ Status 200 Time : 0.0034127235412597656s
+[INFO] | [2025-08-01 17:51:48,024] | [root] - GET /admin/classes Status 200 Time : 0.003164529800415039s
+[INFO] | [2025-08-01 17:51:55,385] | [root] - GET /admin/classes Status 200 Time : 0.0024483203887939453s
+[INFO] | [2025-08-01 17:51:58,696] | [root] - GET /admin/classes Status 200 Time : 0.0031387805938720703s
+[INFO] | [2025-08-01 17:51:59,811] | [root] - GET /admin/classes Status 200 Time : 0.0018978118896484375s
+[INFO] | [2025-08-01 17:52:03,105] | [root] - GET /admin/classes Status 200 Time : 0.0027146339416503906s
+[INFO] | [2025-08-01 17:52:10,119] | [root] - GET /admin/subjects Status 200 Time : 0.0029718875885009766s
+[INFO] | [2025-08-01 17:52:13,841] | [root] - GET /admin/classes Status 200 Time : 0.0032579898834228516s
+[INFO] | [2025-08-01 17:52:39,407] | [root] - GET /admin/teachers Status 200 Time : 0.002596139907836914s
+[INFO] | [2025-08-01 17:52:44,293] | [root] - GET /admin/classes Status 200 Time : 0.0029189586639404297s
+[INFO] | [2025-08-01 17:52:49,849] | [root] - DELETE /auth/logout Status 200 Time : 0.0030028820037841797s
+[INFO] | [2025-08-01 17:53:16,704] | [root] - POST /auth/login Status 200 Time : 0.265657901763916s
+[INFO] | [2025-08-01 17:53:16,734] | [root] - GET /class/assigned-class Status 200 Time : 0.0032541751861572266s
+[INFO] | [2025-08-01 17:53:16,749] | [root] - GET /study-materials/class/2 Status 200 Time : 0.008069038391113281s
+[INFO] | [2025-08-01 17:58:23,173] | [root] - DELETE /auth/logout Status 401 Time : 0.0005433559417724609s
+[INFO] | [2025-08-01 17:58:35,726] | [root] - POST /auth/login Status 200 Time : 0.4375596046447754s
+[INFO] | [2025-08-01 17:59:11,253] | [root] - DELETE /auth/logout Status 200 Time : 0.002629518508911133s
+[INFO] | [2025-08-01 17:59:30,619] | [root] - APP STARTED!!!
+[INFO] | [2025-08-01 17:59:31,289] | [root] - DELETE /auth/logout Status 200 Time : 0.06911706924438477s
+[INFO] | [2025-08-01 18:03:03,153] | [root] - GET / Status 200 Time : 0.0018475055694580078s
+[INFO] | [2025-08-01 18:03:09,318] | [root] - GET /docs Status 200 Time : 0.0005114078521728516s
+[INFO] | [2025-08-01 18:03:09,960] | [root] - GET /openapi.json Status 200 Time : 0.031240463256835938s
+[INFO] | [2025-08-01 18:10:20,889] | [root] - OPTIONS /auth/logout Status 200 Time : 0.00022220611572265625s
+[INFO] | [2025-08-01 18:10:21,096] | [root] - DELETE /auth/logout Status 200 Time : 0.20137858390808105s
+[INFO] | [2025-08-01 18:10:34,176] | [root] - OPTIONS /auth/login Status 200 Time : 0.0001678466796875s
+[INFO] | [2025-08-01 18:10:34,534] | [root] - POST /auth/login Status 401 Time : 0.34786486625671387s
+[INFO] | [2025-08-01 18:10:41,229] | [root] - POST /auth/login Status 200 Time : 0.24488210678100586s
+[INFO] | [2025-08-01 18:10:41,261] | [root] - GET /admin/classes Status 200 Time : 0.008680105209350586s
+[INFO] | [2025-08-01 18:10:54,369] | [root] - GET /admin/teachers Status 200 Time : 0.0024406909942626953s
+[INFO] | [2025-08-01 18:10:59,680] | [root] - OPTIONS /admin/assign-teacher Status 200 Time : 0.00016164779663085938s
+[INFO] | [2025-08-01 18:10:59,700] | [root] - POST /admin/assign-teacher Status 201 Time : 0.017641067504882812s
+[INFO] | [2025-08-01 18:10:59,716] | [root] - GET /admin/classes Status 200 Time : 0.003522634506225586s
+[INFO] | [2025-08-01 18:11:37,329] | [root] - OPTIONS /admin/create-class Status 200 Time : 0.0002353191375732422s
+[INFO] | [2025-08-01 18:11:37,335] | [root] - POST /admin/create-class Status 201 Time : 0.003899097442626953s
+[INFO] | [2025-08-01 18:11:38,260] | [root] - POST /admin/create-class Status 201 Time : 0.003908872604370117s
+[INFO] | [2025-08-01 18:11:39,482] | [root] - POST /admin/create-class Status 201 Time : 0.0028684139251708984s
+[INFO] | [2025-08-01 18:11:46,801] | [root] - OPTIONS /admin/create-class Status 200 Time : 0.0001499652862548828s
+[INFO] | [2025-08-01 18:11:46,807] | [root] - POST /admin/create-class Status 201 Time : 0.0030744075775146484s
+[INFO] | [2025-08-01 18:11:49,569] | [root] - GET /admin/classes Status 200 Time : 0.003315448760986328s
+[INFO] | [2025-08-01 18:12:04,222] | [root] - GET /admin/classes Status 200 Time : 0.0033721923828125s
+[INFO] | [2025-08-01 18:12:05,740] | [root] - GET /admin/classes Status 200 Time : 0.002718210220336914s
+[INFO] | [2025-08-01 18:12:10,604] | [root] - GET /admin/classes Status 200 Time : 0.002856731414794922s
+[INFO] | [2025-08-01 18:12:13,845] | [root] - GET /admin/subjects Status 200 Time : 0.0075948238372802734s
+[INFO] | [2025-08-01 18:12:16,658] | [root] - GET /admin/classes Status 200 Time : 0.0034570693969726562s
+[INFO] | [2025-08-01 18:13:06,676] | [root] - DELETE /auth/logout Status 200 Time : 0.002279996871948242s
+[INFO] | [2025-08-01 18:13:16,218] | [root] - POST /auth/login Status 401 Time : 0.24017930030822754s
+[INFO] | [2025-08-01 18:13:22,902] | [root] - POST /auth/login Status 200 Time : 0.23635458946228027s
+[INFO] | [2025-08-01 18:13:22,924] | [root] - GET /class/assigned-class Status 200 Time : 0.003108978271484375s
+[INFO] | [2025-08-01 18:13:22,954] | [root] - GET /study-materials/class/2 Status 200 Time : 0.010569572448730469s
+[INFO] | [2025-08-01 18:13:37,080] | [root] - GET /uploads/study_materials/51bcb234-501a-497f-9182-d4919c7cc15d.pdf Status 304 Time : 0.11151313781738281s
+[INFO] | [2025-08-01 18:13:42,509] | [root] - GET /uploads/study_materials/6d380fc4-b8d3-436d-8c78-ddb340b8a251.pdf Status 304 Time : 0.0023047924041748047s
+[INFO] | [2025-08-01 18:13:42,568] | [root] - GET /favicon.ico Status 401 Time : 0.0004553794860839844s
+[INFO] | [2025-08-01 18:14:02,841] | [root] - POST /study-materials/upload Status 201 Time : 0.010294437408447266s
+[INFO] | [2025-08-01 18:14:05,654] | [root] - GET /class/assigned-class Status 200 Time : 0.003072023391723633s
+[INFO] | [2025-08-01 18:14:05,666] | [root] - GET /study-materials/class/2 Status 200 Time : 0.0032815933227539062s

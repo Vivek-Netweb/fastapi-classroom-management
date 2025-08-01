@@ -1,14 +1,20 @@
 from fastapi import FastAPI,HTTPException,Request
-from fastapi.responses import JSONResponse
 from fastapi.exceptions import RequestValidationError
 from starlette.status import HTTP_422_UNPROCESSABLE_ENTITY
 from app.db.database import Database
 from app.router.auth_router import auth_router
 from app.router.user_routes import user_routes
 from app.router.admin_router import admin_router
+from app.router.study_material_router import study_material_router
+from app.router.class_router import class_router
 from fastapi.middleware.cors import CORSMiddleware
 from app.middlewares.auth_middleware import JWTAuthMiddleware
 from app.utils.api_response import error_response
+from app.logger.logger import logger
+from app.middlewares.request_logger_middleware import log_middleware
+from starlette.middleware.base import BaseHTTPMiddleware
+from fastapi.staticfiles import StaticFiles
+
 
 async def lifespan(app:FastAPI):
     await Database.connect()
@@ -21,6 +27,8 @@ app = FastAPI(
     version="1.0.0",
     lifespan=lifespan
 )
+
+logger.info("APP STARTED!!!")
 
 
 # CORS Middleware
@@ -39,6 +47,10 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+app.add_middleware(BaseHTTPMiddleware, dispatch=log_middleware)
+
+
+
 @app.get("/")
 def read_root():
     return {"message": "School Management System API"}
@@ -47,6 +59,11 @@ def read_root():
 app.include_router(auth_router)
 app.include_router(user_routes)
 app.include_router(admin_router)
+app.include_router(study_material_router)
+app.include_router(class_router)
+
+app.mount("/uploads", StaticFiles(directory="uploads"), name="uploads")
+
 
 @app.exception_handler(HTTPException)
 async def custom_http_exception_handler(request : Request, exc : HTTPException):
