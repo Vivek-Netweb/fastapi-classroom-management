@@ -1425,3 +1425,260 @@ pip install python-multipart
 [INFO] | [2025-08-01 18:14:02,841] | [root] - POST /study-materials/upload Status 201 Time : 0.010294437408447266s
 [INFO] | [2025-08-01 18:14:05,654] | [root] - GET /class/assigned-class Status 200 Time : 0.003072023391723633s
 [INFO] | [2025-08-01 18:14:05,666] | [root] - GET /study-materials/class/2 Status 200 Time : 0.0032815933227539062s
+[INFO] | [2025-08-06 15:04:02,545] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:04:18,282] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:04:26,564] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:04:31,031] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:04:34,529] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:16:00,349] | [root] - POST /ai-chat/chat Status 401 Time : 0.0005316734313964844s
+[INFO] | [2025-08-06 15:16:53,474] | [root] - POST /ai-chat/chat Status 401 Time : 0.00048470497131347656s
+[INFO] | [2025-08-06 15:17:03,027] | [root] - POST /auth/login Status 200 Time : 0.6572799682617188s
+[INFO] | [2025-08-06 15:17:18,358] | [root] - POST /ai-chat/chat Status 200 Time : 2.232422351837158s
+[INFO] | [2025-08-06 15:17:47,714] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:17:51,684] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:17:58,783] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:18:05,113] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:18:09,459] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:18:18,289] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:18:22,318] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:18:36,537] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 15:18:38,152] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 15:18:38,157] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 15:18:38,188] | [root] - POST /ai-chat/chat Status 200 Time : 3.8789377212524414s
+[INFO] | [2025-08-06 15:20:09,917] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:20:14,051] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:20:18,007] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:20:24,616] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:20:28,586] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:20:35,808] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:20:57,200] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:01,444] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:05,694] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:09,914] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:14,332] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:18,459] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:22,599] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:27,661] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:38,599] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:42,563] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:21:47,653] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:22:26,936] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:22:31,021] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:22:35,174] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:22:45,157] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:22:56,717] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:23:00,927] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:23:06,902] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:23:11,088] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:23:34,997] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:23:39,186] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:25:00,473] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:25:17,904] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:25:21,800] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:25:46,654] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:25:50,674] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:25:54,736] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:25:58,851] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:27:49,965] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:28:23,683] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:28:27,836] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:28:31,939] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:28:35,890] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:28:40,115] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:28:49,494] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:28:53,774] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:28:57,905] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:29:02,082] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:29:14,090] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 15:29:47,038] | [root] - GET /ai-chat/chat/history Status 200 Time : 2.1992411613464355s
+[INFO] | [2025-08-06 15:30:09,493] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 15:30:12,746] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 15:30:12,747] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 15:30:12,755] | [root] - POST /ai-chat/chat Status 200 Time : 5.4226884841918945s
+[INFO] | [2025-08-06 15:30:18,804] | [root] - GET /ai-chat/chat/history Status 200 Time : 2.109833240509033s
+[INFO] | [2025-08-06 16:19:31,112] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:19:49,906] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:20:01,263] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:20:05,345] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:20:10,390] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:20:22,550] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:20:26,673] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:20:34,004] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:20:38,118] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:21:02,431] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:21:06,555] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:22:26,358] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:22:30,411] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:23:13,270] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:23:22,095] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:23:26,075] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:23:55,246] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:24:05,569] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:24:12,343] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:24:47,575] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:28:07,256] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:28:11,179] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:29:03,253] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:43:52,265] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:45:15,516] | [root] - POST /auth/login Status 200 Time : 0.6079049110412598s
+[INFO] | [2025-08-06 16:47:01,265] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:47:05,362] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:47:09,391] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:47:40,417] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 16:47:42,272] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 16:47:42,274] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 16:47:42,274] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 16:47:46,538] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 16:47:46,539] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 16:50:25,733] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:50:36,033] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:50:56,183] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 16:50:58,615] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 16:50:58,616] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 16:50:58,616] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 16:51:02,002] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 16:51:02,003] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 16:53:12,418] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:53:16,330] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:53:25,977] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:53:35,162] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:53:39,243] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:53:43,440] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:53:47,401] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:53:52,423] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:53:56,687] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:54:00,838] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:54:04,876] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:54:09,049] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:54:13,041] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:54:16,846] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:54:24,337] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 16:54:37,460] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 16:54:39,643] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 16:54:39,645] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 16:54:39,645] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 16:54:42,744] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 16:54:42,746] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 16:54:42,757] | [root] - POST /ai-chat/chat Status 200 Time : 7.645514488220215s
+[INFO] | [2025-08-06 17:01:02,279] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:01:25,553] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:01:31,257] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:01:47,457] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:02:29,878] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:02:40,201] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:02:59,814] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:03:09,037] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:03:13,282] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:03:20,719] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:03:24,687] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:03:32,952] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:03:36,986] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:19,225] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:28,358] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:32,621] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:36,856] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:41,044] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:45,470] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:49,906] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:54,434] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:04:58,652] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:09:35,933] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:09:41,391] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:09:46,547] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:09:50,646] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 17:09:54,686] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:10:12,729] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:10:16,995] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:10:20,998] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:10:26,813] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:10:30,807] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:11:13,019] | [root] - POST /auth/login Status 200 Time : 0.36491870880126953s
+[INFO] | [2025-08-06 18:11:26,789] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 18:11:29,415] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 18:11:29,417] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 18:11:29,430] | [root] - POST /ai-chat/chat Status 200 Time : 4.901183843612671s
+[INFO] | [2025-08-06 18:13:39,982] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:14:07,673] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:14:17,413] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:14:32,060] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:16:20,540] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:16:24,684] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:16:28,600] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:16:36,000] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:16:39,932] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:16:44,002] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:17:06,583] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 18:17:09,191] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 18:17:09,196] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 18:20:36,319] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:20:40,254] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:21:44,446] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:21:48,434] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:21:57,938] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:22:42,665] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:22:46,522] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:22:52,170] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:22:56,288] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:23:17,379] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:23:27,324] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 18:23:28,342] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+[INFO] | [2025-08-06 18:25:40,639] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:25:46,260] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 18:25:47,951] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 18:25:47,952] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 18:27:10,758] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:27:19,420] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 18:27:22,018] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 18:27:22,019] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 18:35:46,282] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:35:52,775] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:35:56,891] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:35:59,663] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 18:36:01,566] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 18:36:01,567] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 18:37:29,453] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:37:42,080] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:39:11,680] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:39:27,252] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 18:39:29,840] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 18:39:29,842] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 18:39:55,343] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:40:07,275] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:40:16,031] | [google_genai.models] - AFC is enabled with max remote calls: 10.
+[INFO] | [2025-08-06 18:40:18,276] | [httpx] - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+[INFO] | [2025-08-06 18:40:18,277] | [google_genai.models] - AFC remote call 1 is done.
+[INFO] | [2025-08-06 18:40:18,293] | [root] - POST /ai-chat/chat Status 200 Time : 4.390889883041382s
+[INFO] | [2025-08-06 18:40:40,146] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:41:34,695] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:41:39,009] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:41:43,266] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:41:47,591] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:41:51,915] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:41:56,103] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:00,150] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:05,936] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:10,133] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:16,193] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:20,411] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:24,742] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:28,793] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:36,875] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:43,648] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:47,781] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:42:52,064] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:43:46,175] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:43:50,531] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:44:04,849] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:44:19,878] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:45:01,951] | [root] - GET /ai-chat/chat/history Status 401 Time : 0.0008313655853271484s
+[INFO] | [2025-08-06 18:45:13,524] | [root] - POST /auth/login Status 200 Time : 0.34690141677856445s
+[INFO] | [2025-08-06 18:45:27,411] | [root] - GET /ai-chat/chat/history Status 500 Time : 2.158247709274292s
+[INFO] | [2025-08-06 18:46:02,059] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:46:11,180] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:46:15,209] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:46:29,938] | [root] - GET /ai-chat/chat/history Status 500 Time : 2.1397767066955566s
+[INFO] | [2025-08-06 18:47:07,852] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:47:11,869] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:47:18,476] | [root] - GET /ai-chat/chat/history Status 500 Time : 2.231760025024414s
+[INFO] | [2025-08-06 18:50:01,142] | [root] - APP STARTED!!!
+[INFO] | [2025-08-06 18:50:03,950] | [root] - GET /ai-chat/chat/history Status 200 Time : 2.225658416748047s

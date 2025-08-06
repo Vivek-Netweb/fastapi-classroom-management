@@ -9,7 +9,7 @@ DATABASE_URL = os.getenv("DATABASE_URL")
 
 async def run():
     conn : asyncpg.Connection = await asyncpg.connect(DATABASE_URL)
-    with open("migrations/005_alter_study_materials.sql", "r") as f:
+    with open("migrations/007_alter_chat_history.sql", "r") as f:
         query = f.read()
     await conn.execute(query)
     print("Migration applied successfully.")

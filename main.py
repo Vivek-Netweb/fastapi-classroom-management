@@ -6,6 +6,7 @@ from app.router.auth_router import auth_router
 from app.router.user_routes import user_routes
 from app.router.admin_router import admin_router
 from app.router.study_material_router import study_material_router
+from app.router.chat_router import chat_router
 from app.router.class_router import class_router
 from fastapi.middleware.cors import CORSMiddleware
 from app.middlewares.auth_middleware import JWTAuthMiddleware
@@ -14,7 +15,6 @@ from app.logger.logger import logger
 from app.middlewares.request_logger_middleware import log_middleware
 from starlette.middleware.base import BaseHTTPMiddleware
 from fastapi.staticfiles import StaticFiles
-
 
 async def lifespan(app:FastAPI):
     await Database.connect()
@@ -60,6 +60,7 @@ app.include_router(auth_router)
 app.include_router(user_routes)
 app.include_router(admin_router)
 app.include_router(study_material_router)
+app.include_router(chat_router)
 app.include_router(class_router)
 
 app.mount("/uploads", StaticFiles(directory="uploads"), name="uploads")

@@ -2,6 +2,8 @@ CREATE TABLE IF NOT EXISTS classes (
     id SERIAL PRIMARY KEY,
     name TEXT NOT NULL,
     section TEXT,
+    -- MANY TO MANY RELATIONSHIP
     teacher_id INT REFERENCES users(id) ON DELETE SET NULL,
+    -- subject_id int REFERENCES
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
